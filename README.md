@@ -32,6 +32,9 @@ Basecamp: https://basecamp.com/2515051/projects/12717716   [ Use username:demo p
 
 #Our Iterative Agile Process
 
+#Sprint
+![logo] (http://cdn2.hubspot.net/hubfs/1789978/icons-CS76-01.png?t=1471546217499 "sprint")
+
 #Our Responsive Design
 Our prototype works on multiple devices and is a responsive design. We implemented our front-end with the Bootstrap framework to provide a completely responsive experience. We conducted usability tests to observe users on these platforms and used Google’s chrome mobile display test tool to emulate the experience of different platforms.
 
