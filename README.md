@@ -9,6 +9,10 @@ Development: https://dhsdev.spinsys.com/dhsweb1
 Staging: https://dhsuat.spinsys.com/dhsweb1
              https://dhsuat.spinsys.com/dhsapi1
              
+#The Challenge
+
+#The Solution
+
 #Digital Services Playbook
 
 We closely followed the Digital Services playbook guidelines as detailed in the link below:U.S. Digital Services Playbook (https://playbook.cio.gov)
