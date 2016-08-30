@@ -1,5 +1,6 @@
 #Challenge Overview
 #Our Solution: **Recognize**
+Our prototype works on multiple devices and is a responsive design. We implemented our front-end with the Bootstrap framework to provide a completely responsive experience. We conducted usability tests to observe users on these platforms and used Google’s chrome mobile display test tool to emulate the experience of different platforms.
 #Environments
 We used the following three environments that were provisioned using AWS.
 
@@ -26,59 +27,80 @@ At a high level, here is the architecture of the application
 
 
 #Tool Stack
-We developed the prototype with 14 modern, open source technologies most appropriate to implement the prototype.
+We developed the prototype with **14** modern, open source technologies most appropriate to implement the prototype.
 
-https://github.com/spinsys/dhs/blob/master/documentation/applicationstack.pdf
-+ Front-End: Bootstrap, Angular.JS, Node.js, Karma, JS Hint, nvd3
-+ Backend: Web API
-+ Dev-Ops: TeamCity
+![stack] (https://github.com/spinsys/dhs/blob/master/images/ApplicationStack.png "stack")
 
 #Coding Practices & Automated Testing
+
+In order to maintain healthy code among the team, any team shared code was subjected to rigorous automated tests on various perspectives of quality, including code, security, performance, and functionality. Tests were executed automatically as developers submitted code to the repository. Feedback was made available to developers within minutes of the submission on a variety of criteria explained below. If all tests were successful a deployment was automatically initiated and available for review on the appropriate environment
+
 #Development Workflow & DEVOPS
+
+We used **BeanStalkApp** as our source code repository**(GIT*. The developers created new feature branch to develop the functionality for the feature. We made sure each new feature would reside in its own branch Here’s how the workflow looked like:
+
+1. Developers cloned the feature branch from the master branch to work on the feature he/she was developing.
+2. Developers used the static code analyzer embedded in their local development environment to produce quality code.
+3. Developers validated the working code with unit tests and manual tests.
+4. Developers committed the changes to the feature branch and requested code reviews in the BeanStalkApp. Issues were logged for the developer to fix the problems in the code.
+5. Developer’s feature branch code was reviewed and merged into the master branch.
+
+We used **TeamCity** to enable **Continuous Cntegration/Continuous Ceployment(CI/CD)**. As soon as the feature branch is merged into the master branch, **TeamCity** initiated automated  build and deployed the code to our integration environment. As part of automated build process, we executed unit tests and ran code coverage analysis and we adjusted the unit tests for  more coverage. Once all the automated tests ran successfully after continuous integration , our architect deployed the same tested code to the staging environment. The team was always notified in **Slack** channel **#dhs-build** about the automated builds and the results.
+
+We performed manual testing ( Functional testing, Responsive Testing, Section 508 testing ) on the staging environment.
+
 #Design: Wireframes/Personas/Mockups
-#Agile Process & Artifacts
-Prototype: https://dhsprod.spinsys.com/
 
-Development: https://dhsdev.spinsys.com/dhsweb1
-             https://dhsdev.spinsys.com/dhsapi1
-             
-Staging: https://dhsuat.spinsys.com/dhsweb1
-             https://dhsuat.spinsys.com/dhsapi1
-             
-#The Challenge
-
-#The Solution
-
-#Digital Services Playbook
-
-We closely followed the Digital Services playbook guidelines as detailed in the link below:U.S. Digital Services Playbook (https://playbook.cio.gov)
-
-We have outlined our process here:
-https://github.com/spinsys/dhs/blob/master/documentation/DigitalServicePlays.md
-
-#Source Control
-The team utilized BeanStalkapp (git protocol) for distributed source control. We leveraged the GitFlow model of propagating code from feature branches, to development, to release, and finally to production. 
-
-#Our Style Guide/ Wireframes/ Mockups
 
 Login Screen Mockup:
 https://marvelapp.com/2agi97a
 
 Basecamp: https://basecamp.com/2515051/projects/12717716   [ Use username:demo pwd: demo to see the project ]
+#Agile Process & Artifacts
 
-#Our Iterative Agile Process
-
-#Sprint
 ![logo] (http://cdn2.hubspot.net/hubfs/1789978/icons-CS76-01.png?t=1471546217499 "sprint")
+We developed our prototype using an iterative approach where feedback informed subsequent versions of the prototype. We had a Sprint ‘0’ followed by 2 Sprints.  We conducted sprint planning at the beginning of each sprint and conducted a prototype demonstration and retrospective at the end of each sprint.We executed this challenge with an agile approach, delivering working software every 1.5 hours, and building in an ability to respond to change.
 
-#Our Responsive Design
-Our prototype works on multiple devices and is a responsive design. We implemented our front-end with the Bootstrap framework to provide a completely responsive experience. We conducted usability tests to observe users on these platforms and used Google’s chrome mobile display test tool to emulate the experience of different platforms.
+**Sprint Zero: 9:30 am - 10:00 am**
+7ps: Prior Planning and Preparation Prevents Pretty Poor Performance
 
-#Our Tool Stack
+Before we began core development  we spent time in our Sprint 0: Create Story Map. We captured the  product backlog user stories in our tool Trello and in StoriesOnboard story mapping tool to replace the traditional one dimensional list of features ordered according to business value with a two dimensional map which focuses on user activities and the overall vision of the product. It allowed the team the see the big picture in the backlog and promoted silent brainstorming. We executed the following steps :
 
-#Our Devops Workflow
-We use TeamCity as our continuous integration system to automate the running of tests and continuously deploy our code. We established BeanStalk App hooks for each branch to kickoff automated jobs. Custom jobs for each branch ran automated tests and deployed the code to Integrated Development Environment. Once tests were completed, J All pushes to the development branch are automatically examined by static code analysis, security scans, unit tests, integration tests, and performance tests. Load testing was performed ad-hoc (developer’s discretion) using Blazemeter
++ **Step 1:** Capture the primary goal of the MVP:  We understood what our product does or more importantly what kind of problems it solves. We defined the main goal, which must be fulfilled to satisfy the customer.
+  ..* Primary Goal: Allow users to administer kudos, give kudos to user
++ **Step 2:** Define the process/stages in the product : We defined what the main user flow in our product looks like. We also defined what the particular stages on this flow are.
++ **Step 3**: Create list of features for each stage:  We looked at each stage of the process and we defined the list of features which should be part of this stage. In this step we try to boost our own creativity and defined as many features as we can but at the same time we made sure we focused on creating  an unprioritized bucket of ideas to help the customer solve her/his problem. As  a result we generated the features and placed it under the stage names.
++ **Step 4:**  Prioritize the features : We prioritize each feature in each stage according to a few factors:
+
+    - Question 1: How important is this feature for finishing the process?
+    - Question 2: How often will the feature be used?
+    - Question 3: How many users will use this feature?
+    - Question 4: How much value will the feature bring to the customer?
+    - Question 5: How risky is this feature?
+
+ Based on these questions we rearranged the features on our map by moving the ones with the high value/priority to the top, and the ones with lowervalue/priority to the bottom. The big story cards on the top of the map are the essential capabilities the system needs to have and it is the backbone of the system. We considered all the story cards hanging down from the backbone as **Ribs**. We placed the story cards high to indicate they’re absolutely necessary, lower to indicate they’re less necessary. All the stories placed high on the story map describe the smallest possible system you could build that would give you end to end functionality which is the **Walking Skeleton**.
+ 
+ + **Step 5:** Define the MVP and Sprints
+  The story map showed us the big picture of our product and helped us to focus on the overall vision and purpose behind the product and not solely on particular features we need to deliver. When we selected the user stories for the releases/sprints, we always try to go right on the story map and not down and address the most basic needs of our users first so we can deliver our MVP quicker as well as learn more from them.
+
+  When we build the product story by story, we chose them from the story map left to right, and top to bottom. We slowly moved across the backbone, and down through the priorities of each rib. We were slowly building up the system not a feature at a time, but rather by building up all major features a little at a time.
+  
+  + **Step 6**: Rapid Prototyping/Sketching
+  +In order to validate the product and the user stories we created quick wireframes that shows the placement of elements in a user interface and demonstrate the intended layout and functionality of a solution. We try to  answer the following questions :
+
+                - What elements will be displayed in the UI?
+                - How will the elements be organized?
+                - How will the interface work?
+                - How does the user interact with the application / website?
+
+ Our  designer used industry best practices and recommended enhancements to the navigation, presentation, content and interaction represented in the wireframe. Through rounds of usability testing and user interviews, we continually updated the wireframe. We shared it with developers and used the Trello board. While the developers coded core functionality, team members focused on user design continued to talk with the product user and updated wireframes to match recommendations on look, layout and textual elements.
+  
+#Digital Services Playbook
+
+We closely followed the Digital Services playbook guidelines as detailed in the link below:U.S. Digital Services Playbook (https://playbook.cio.gov)
 
 
-#Our Automated Testing
-In order to maintain healthy code among the team, any team shared code was subjected to rigorous automated tests on various perspectives of quality, including code, security, performance, and functionality. Tests were executed automatically as developers submitted code to the repository. Feedback was made available to developers within minutes of the submission on a variety of criteria explained below. If all tests were successful a deployment was automatically initiated and available for review on the appropriate environment
+
+
+
+
