@@ -148,7 +148,7 @@ The pages we designed for this prototype had a nice title to let the users about
 <tr><td>Use an experimentation tool that supports multivariate testing in production</td> <td>What we did </td></tr>
 </table>
 
-** Play 13: Default to open **
+##Play 13: Default to open 
 <table>
 <tr><td><b>Checklist</b></td> <td><b>What we did</b></td></tr>
 <tr><td>Offer users a mechanism to report bugs and issues, and be responsive to these reports</td> <td> Not in scope for this challenge </td></tr>
@@ -158,7 +158,7 @@ The pages we designed for this prototype had a nice title to let the users about
 <tr><td>Ensure that we maintain the rights to all data developed by third parties in a manner that is releasable and reusable at no cost to the public</td> <td>What we did </td></tr>
 <tr><td>Ensure that we maintain contractual rights to all custom software developed by third parties in a manner that is publishable and reusable at no cost</td> <td>What we did </td></tr>
 <tr><td>When appropriate, create an API for third parties and internal users to interact with the service directly</td> <td>Not in scope for this challenge</td></tr>
-<tr><td>When appropriate, publish source code of projects or components online</td> <td>We uploaded our content in GitHub </td></tr>
-<tr><td>When appropriate, share your development process and progress publicly</td> <td>We uploaded our content in GitHub </td></tr>
+<tr><td>When appropriate, publish source code of projects or components online</td> <td>We uploaded our files in GitHub </td></tr>
+<tr><td>When appropriate, share your development process and progress publicly</td> <td>We uploaded our files in GitHub </td></tr>
 </table>
 
