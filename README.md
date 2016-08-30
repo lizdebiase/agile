@@ -28,8 +28,8 @@ One of the goals of the architecture is to surface the data in a simple way so t
 
 At a high level, here is the architecture of the application
 
-![ar] (https://github.com/spinsys/agile/blob/master/images/ApplicationArchitecture.png "Architecture")
 
+<img src="https://github.com/spinsys/agile/blob/master/images/ApplicationArchitecture.png" alt="architecture" width="400px" height="400px">
 
 # 5.Tool Stack
 We developed the prototype with **14** modern, open source technologies most appropriate to implement the prototype.
