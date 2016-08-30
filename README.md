@@ -1,4 +1,5 @@
 #Challenge Overview
+The challenge is for the Offeror to develop a responsive web app that will be used to report and track staff performance recognition of individuals by their coworkers, including providing “kudos” to peers. This application may include entry of recognition by users, administration activities of users, and reporting.
 #Our Solution: **Recognize**
 Our prototype works on multiple devices and is a responsive design. We implemented our front-end with the Bootstrap framework to provide a completely responsive experience. We conducted usability tests to observe users on these platforms and used Google’s chrome mobile display test tool to emulate the experience of different platforms.
 #Environments
@@ -35,6 +36,48 @@ We developed the prototype with **14** modern, open source technologies most app
 
 In order to maintain healthy code among the team, any team shared code was subjected to rigorous automated tests on various perspectives of quality, including code, security, performance, and functionality. Tests were executed automatically as developers submitted code to the repository. Feedback was made available to developers within minutes of the submission on a variety of criteria explained below. If all tests were successful a deployment was automatically initiated and available for review on the appropriate environment
 
+We used three sources of feedback on our work code before it gets integrated into the codebase: unit tests, code reviews and static code analysis.
+ 
+ _Diagram_
+#Unit Tests
+
+#Code Reviews
+
+##Static Code Analysis
+Our goal is to allow developers to push their code in quickly and safely. 
+We think that one way to achieve this is to provide early feedback to developers, during the development process, 
+so that they feel confident that they are not going to break something. 
+As adventurous as we are, we don’t feel production is an appropriate place to find out we might have goofed. 
+We want to give feedback on code commits before they go through the integration pipeline. 
+We wanted to give a richer feedback to developers using static code analysis tools. 
+
+We used the the *Static Code Analysis feature of Visual Studio* to help developers identify potential design, 
+globalization, interoperability, performance, security, and a lot of other categories of 
+potential problems according to Microsoft’s rules that mainly targets best practices in 
+writing code, and there is a large set of those rules included with Visual Studio grouped into different 
+categorized targeting specific coding issues like security, design, Interoperability, globalizations and others.
+
+The standard way to achieve this is to periodically run a tool on the codebase 
+and publish the results on nice dashboards in which we can track our projects’ quality. 
+This is useful, but the feedback is provided on code that has been merged possibly hours ago. 
+So we decided to run the static code analysis on the local build process so that any violations will be treated as errors.
+This way, the static analysis report is displayed at the local developer box so that the developer can fix the code 
+before it is committed.
+
+Static analyzers look at code and find problems before you run it. They do simple checks, like enforcing syntax (for example, tabs instead of spaces), and more holistic checks, 
+like making sure your functions aren’t too complex. We used *JSHint* as the static code analyzer to analyze the front end code.
+*JSHint* is a program that flags suspicious usage in programs written in JavaScript. 
+
+#Create automated tests that verify all user-facing functionality
+
+karma- javascript functional tests, checkout out our front end tests
+
+These tests validate the user facing functionality of the site.
+_PhantomJS_ is used to execute the tests in a headless browser environment to increase speed. 
+_Jasmine_ is also used to provide a full featured testing harness and clean readability. 
+Execution is orchestrated through a Grunt task.
+
+
 #Development Workflow & DEVOPS
 
 We used **BeanStalkApp** as our source code repository**(GIT*. The developers created new feature branch to develop the functionality for the feature. We made sure each new feature would reside in its own branch Here’s how the workflow looked like:
@@ -55,10 +98,11 @@ We performed manual testing ( Functional testing, Responsive Testing, Section 50
 Login Screen Mockup:
 https://marvelapp.com/2agi97a
 
-Basecamp: https://basecamp.com/2515051/projects/12717716   [ Use username:demo pwd: demo to see the project ]
-#Agile Process & Artifacts
+Wireframes Link:
+Personas Link:
+Marvel Mockup Link:
 
-![logo] (http://cdn2.hubspot.net/hubfs/1789978/icons-CS76-01.png?t=1471546217499 "sprint")
+#Agile Process & Artifacts
 We developed our prototype using an iterative approach where feedback informed subsequent versions of the prototype. We had a Sprint ‘0’ followed by 2 Sprints.  We conducted sprint planning at the beginning of each sprint and conducted a prototype demonstration and retrospective at the end of each sprint.We executed this challenge with an agile approach, delivering working software every 1.5 hours, and building in an ability to respond to change.
 
 **Sprint Zero: 9:30 am - 10:00 am**
@@ -78,8 +122,7 @@ Before we began core development  we spent time in our Sprint 0: Create Story Ma
     - Question 4: How much value will the feature bring to the customer?
     - Question 5: How risky is this feature?
 
- Based on these questions we rearranged the features on our map by moving the ones with the high value/priority to the top, and the ones with lowervalue/priority to the bottom. The big story cards on the top of the map are the essential capabilities the system needs to have and it is the backbone of the system. We considered all the story cards hanging down from the backbone as **Ribs**. We placed the story cards high to indicate they’re absolutely necessary, lower to indicate they’re less necessary. All the stories placed high on the story map describe the smallest possible system you could build that would give you end to end functionality which is the **Walking Skeleton**.
- 
+    Based on these questions we rearranged the features on our map by moving the ones with the high value/priority to the top, and the ones with lowervalue/priority to the bottom. The big story cards on the top of the map are the essential capabilities the system needs to have and it is the backbone of the system. We considered all the story cards hanging down from the backbone as **Ribs**. We placed the story cards high to indicate they’re absolutely necessary, lower to indicate they’re less necessary. All the stories placed high on the story map describe the smallest possible system you could build that would give you end to end functionality which is the **Walking Skeleton.
  + **Step 5:** Define the MVP and Sprints
   The story map showed us the big picture of our product and helped us to focus on the overall vision and purpose behind the product and not solely on particular features we need to deliver. When we selected the user stories for the releases/sprints, we always try to go right on the story map and not down and address the most basic needs of our users first so we can deliver our MVP quicker as well as learn more from them.
 
