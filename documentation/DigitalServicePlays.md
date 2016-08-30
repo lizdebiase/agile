@@ -18,120 +18,145 @@
 **Play 2: Address the whole experience, from start to finish**
 <table>
 <tr><td><b>Checklist</b></td> <td><b>What we did</b></td></tr>
-<tr><td>Checklist</td> <td>What we did </td></tr>
-<tr><td>Checklist</td> <td>What we did </td></tr>
-<tr><td>Checklist</td> <td>What we did </td></tr>
-<tr><td>Checklist</td> <td>What we did </td></tr>
-<tr><td>Checklist</td> <td>What we did </td></tr>
+<tr><td>Understand the different points at which people will interact with the service – both online and in person</td> <td>What we did </td></tr>
+<tr><td>Identify pain points in the current way users interact with the service, and prioritize these according to user needs</td> <td>What we did </td></tr>
+<tr><td>Design the digital parts of the service so that they are integrated with the offline touch points people use to interact with the service</td> <td>What we did </td></tr>
+<tr><td>Develop metrics that will measure how well the service is meeting user needs at each step of the service
+</td> <td>What we did </td></tr>
+
 </table>
 
 **Play 3: Make it simple and intuitive**
 <table>
 <tr><td><b>Checklist</b></td> <td><b>What we did</b></td></tr>
-<tr><td>Checklist</td> <td>What we did </td></tr>
-<tr><td>Checklist</td> <td>What we did </td></tr>
-<tr><td>Checklist</td> <td>What we did </td></tr>
-<tr><td>Checklist</td> <td>What we did </td></tr>
-<tr><td>Checklist</td> <td>What we did </td></tr>
+<tr><td>Use a simple and flexible design style guide for the service. Use the U.S. Web Design Standards as a default</td> <td>What we did </td></tr>
+<tr><td>Use the design style guide consistently for related digital services</td> <td>What we did </td></tr>
+<tr><td>Give users clear information about where they are in each step of the process</td> <td>What we did </td></tr>
+<tr><td>Follow accessibility best practices to ensure all people can use the service</td> <td>What we did </td></tr>
+<tr><td>Provide users with a way to exit and return later to complete the process</td> <td>What we did </td></tr>
+<tr><td>Use language that is familiar to the user and easy to understand</td> <td>What we did </td></tr>
+<tr><td>Use language and design consistently throughout the service, including online and offline touch points</td> <td>What we did </td></tr>
 </table>
 
 **Play 4. Build the service using agile and Iterative practices**
 <table>
 <tr><td><b>Checklist</b></td> <td><b>What we did</b></td></tr>
-<tr><td>Checklist</td> <td>What we did </td></tr>
-<tr><td>Checklist</td> <td>What we did </td></tr>
-<tr><td>Checklist</td> <td>What we did </td></tr>
-<tr><td>Checklist</td> <td>What we did </td></tr>
-<tr><td>Checklist</td> <td>What we did </td></tr>
+<tr><td>Ship a functioning “minimum viable product” (MVP) that solves a core user need as soon as possible, no longer than three months from the beginning of the project, using a “beta” or “test” period if needed</td> <td>What we did </td></tr>
+<tr><td>Run usability tests frequently to see how well the service works and identify improvements that should be made</td> <td>What we did </td></tr>
+<tr><td>Ensure the individuals building the service communicate closely using techniques such as launch meetings, war rooms, daily standups, and team chat tools</td> <td>What we did </td></tr>
+<tr><td>Keep delivery teams small and focused; limit organizational layers that separate these teams from the business owners</td> <td>What we did </td></tr>
+<tr><td>Release features and improvements multiple times each month</td> <td>What we did </td></tr>
+<tr><td>Create a prioritized list of features and bugs, also known as the “feature backlog” and “bug backlog”</td> <td>What we did </td></tr>
+<tr><td>Use a source code version control system</td> <td>What we did </td></tr>
+<tr><td>Give the entire project team access to the issue tracker and version control system</td> <td>What we did </td></tr>
+<tr><td>Use code reviews to ensure quality</td> <td>What we did </td></tr>
+
 </table>
 
 **Play 5. Structure budget and contracts to support delivery**
 <table>
 <tr><td><b>Checklist</b></td> <td><b>What we did</b></td></tr>
-<tr><td>Checklist</td> <td>What we did </td></tr>
-<tr><td>Checklist</td> <td>What we did </td></tr>
-<tr><td>Checklist</td> <td>What we did </td></tr>
-<tr><td>Checklist</td> <td>What we did </td></tr>
-<tr><td>Checklist</td> <td>What we did </td></tr>
+<tr><td>Budget includes research, discovery, and prototyping activities</td> <td>What we did </td></tr>
+<tr><td>Contract is structured to request frequent deliverables, not multi-month milestones</td> <td>What we did </td></tr>
+<tr><td>Contract is structured to hold vendors accountable to deliverables</td> <td>What we did </td></tr>
+<tr><td>Contract gives the government delivery team enough flexibility to adjust feature prioritization and delivery schedule as the project evolves</td> <td>What we did </td></tr>
+<tr><td>Contract ensures open source solutions are evaluated when technology choices are made</td> <td>What we did </td></tr>
+<tr><td>Contract specifies that software and data generated by third parties remains under our control, and can be reused and released to the public as appropriate and in accordance with the law</td> <td>What we did </td></tr>
+<tr><td>Contract allows us to use tools, services, and hosting from vendors with a variety of pricing models, including fixed fees and variable models like “pay-for-what-you-use” services</td> <td>What we did </td></tr>
+<tr><td>Contract specifies a warranty period where defects uncovered by the public are addressed by the vendor at no additional cost to the government</td> <td>What we did </td></tr>
+<tr><td>Contract includes a transition of services period and transition-out plan</td> <td>What we did </td></tr>
 </table>
 
 **Play 6. Assign on leader and hold that person accountable**
 <table>
 <tr><td><b>Checklist</b></td> <td><b>What we did</b></td></tr>
-<tr><td>Checklist</td> <td>What we did </td></tr>
-<tr><td>Checklist</td> <td>What we did </td></tr>
-<tr><td>Checklist</td> <td>What we did </td></tr>
-<tr><td>Checklist</td> <td>What we did </td></tr>
-<tr><td>Checklist</td> <td>What we did </td></tr>
+<tr><td>A product owner has been identified</td> <td>What we did </td></tr>
+<tr><td>All stakeholders agree that the product owner has the authority to assign tasks and make decisions about features and technical implementation details</td> <td>What we did </td></tr>
+<tr><td>The product owner has a product management background with technical experience to assess alternatives and weigh tradeoffs</td> <td>What we did </td></tr>
+<tr><td>The product owner has a work plan that includes budget estimates and identifies funding sources</td> <td>What we did </td></tr>
+<tr><td>The product owner has a strong relationship with the contracting officer</td> <td>What we did </td></tr>
 </table>
 
 **Play 7. Bring in experienced Teams**
 <table>
 <tr><td><b>Checklist</b></td> <td><b>What we did</b></td></tr>
-<tr><td>Checklist</td> <td>What we did </td></tr>
-<tr><td>Checklist</td> <td>What we did </td></tr>
-<tr><td>Checklist</td> <td>What we did </td></tr>
-<tr><td>Checklist</td> <td>What we did </td></tr>
-<tr><td>Checklist</td> <td>What we did </td></tr>
+<tr><td>Member(s) of the team have experience building popular, high-traffic digital services</td> <td>What we did </td></tr>
+<tr><td>Member(s) of the team have experience designing mobile and web applications</td> <td>What we did </td></tr>
+<tr><td>Member(s) of the team have experience using automated testing frameworks</td> <td>What we did </td></tr>
+<tr><td>Member(s) of the team have experience with modern development and operations (DevOps) techniques like continuous integration and continuous deployment</td> <td>What we did </td></tr>
+<tr><td>Member(s) of the team have experience securing digital services</td> <td>What we did </td></tr>
+<tr><td>A Federal contracting officer is on the internal team if a third party will be used for development work</td> <td>What we did </td></tr>
+<tr><td>A Federal budget officer is on the internal team or is a partner</td> <td>What we did </td></tr>
+<tr><td>The appropriate privacy, civil liberties, and/or legal advisor for the department or agency is a partner</td> <td>What we did </td></tr>
 </table>
 
 **Play 8. Choose a modern technology stack**
 <table>
 <tr><td><b>Checklist</b></td> <td><b>What we did</b></td></tr>
-<tr><td>Checklist</td> <td>What we did </td></tr>
-<tr><td>Checklist</td> <td>What we did </td></tr>
-<tr><td>Checklist</td> <td>What we did </td></tr>
-<tr><td>Checklist</td> <td>What we did </td></tr>
-<tr><td>Checklist</td> <td>What we did </td></tr>
+<tr><td>Choose software frameworks that are commonly used by private-sector companies creating similar services</td> <td>What we did </td></tr>
+<tr><td>Whenever possible, ensure that software can be deployed on a variety of commodity hardware types</td> <td>What we did </td></tr>
+<tr><td>Ensure that each project has clear, understandable instructions for setting up a local development environment, and that team members can be quickly added or removed from projects</td> <td>What we did </td></tr>
+<tr><td>Consider open source software solutions at every layer of the stack</td> <td>What we did </td></tr>
 </table>
 
 **Play 9. Deploy in a flexible hosting environment**
 <table>
 <tr><td><b>Checklist</b></td> <td><b>What we did</b></td></tr>
-<tr><td>Checklist</td> <td>What we did </td></tr>
-<tr><td>Checklist</td> <td>What we did </td></tr>
-<tr><td>Checklist</td> <td>What we did </td></tr>
-<tr><td>Checklist</td> <td>What we did </td></tr>
-<tr><td>Checklist</td> <td>What we did </td></tr>
+<tr><td>Resources are provisioned on demand</td> <td>What we did </td></tr>
+<tr><td>Resources scale based on real-time user demand</td> <td>What we did </td></tr>
+<tr><td>Resources are provisioned through an API</td> <td>What we did </td></tr>
+<tr><td>Resources are available in multiple regions</td> <td>What we did </td></tr>
+<tr><td>We only pay for resources we use</td> <td>What we did </td></tr>
+<tr><td>Static assets are served through a content delivery network</td> <td>What we did </td></tr>
+<tr><td>Application is hosted on commodity hardware</td> <td>What we did </td></tr>
 </table>
 
 **Play 10.Automate testing and deployments**
 <table>
 <tr><td><b>Checklist</b></td> <td><b>What we did</b></td></tr>
-<tr><td>Checklist</td> <td>What we did </td></tr>
-<tr><td>Checklist</td> <td>What we did </td></tr>
-<tr><td>Checklist</td> <td>What we did </td></tr>
-<tr><td>Checklist</td> <td>What we did </td></tr>
-<tr><td>Checklist</td> <td>What we did </td></tr>
+<tr><td>Create automated tests that verify all user-facing functionality</td> <td>What we did </td></tr>
+<tr><td>Create unit and integration tests to verify modules and components</td> <td>What we did </td></tr>
+<tr><td>Run tests automatically as part of the build process
+</td> <td>What we did </td></tr>
+<tr><td>Perform deployments automatically with deployment scripts, continuous delivery services, or similar techniques</td> <td>What we did </td></tr>
+<tr><td>Conduct load and performance tests at regular intervals, including before public launch</td> <td>What we did </td></tr>
 </table>
 
 **Play 11: Manage security and privacy through reusable processe**
  <table>
 <tr><td><b>Checklist</b></td> <td><b>What we did</b></td></tr>
-<tr><td>Checklist</td> <td>What we did </td></tr>
-<tr><td>Checklist</td> <td>What we did </td></tr>
-<tr><td>Checklist</td> <td>What we did </td></tr>
-<tr><td>Checklist</td> <td>What we did </td></tr>
-<tr><td>Checklist</td> <td>What we did </td></tr>
+<tr><td>Contact the appropriate privacy or legal officer of the department or agency to determine whether a System of Records Notice (SORN), Privacy Impact Assessment, or other review should be conducted</td> <td>What we did </td></tr>
+<tr><td>Determine, in consultation with a records officer, what data is collected and why, how it is used or shared, how it is stored and secured, and how long it is kept</td> <td>What we did </td></tr>
+<tr><td>Determine, in consultation with a privacy specialist, whether and how users are notified about how personal information is collected and used, including whether a privacy policy is needed and where it should appear, and how users will be notified in the event of a security breach</td> <td>What we did </td></tr>
+<tr><td>Consider whether the user should be able to access, delete, or remove their information from the service</td> <td>What we did </td></tr>
+<tr><td>“Pre-certify” the hosting infrastructure used for the project using FedRAMP</td> <td>What we did </td></tr>
+<tr><td>Use deployment scripts to ensure configuration of production environment remains consistent and controllable</td> <td>What we did </td></tr>
 </table>
 
  ** Play 12: Use data to drive decisions**
  <table>
 <tr><td><b>Checklist</b></td> <td><b>What we did</b></td></tr>
-<tr><td>Checklist</td> <td>What we did </td></tr>
-<tr><td>Checklist</td> <td>What we did </td></tr>
-<tr><td>Checklist</td> <td>What we did </td></tr>
-<tr><td>Checklist</td> <td>What we did </td></tr>
-<tr><td>Checklist</td> <td>What we did </td></tr>
+<tr><td>Monitor system-level resource utilization in real time</td> <td>What we did </td></tr>
+<tr><td>Monitor system performance in real-time (e.g. response time, latency, throughput, and error rates)</td> <td>What we did </td></tr>
+<tr><td>Ensure monitoring can measure median, 95th percentile, and 98th percentile performance</td> <td>What we did </td></tr>
+<tr><td>Create automated alerts based on this monitoring</td> <td>What we did </td></tr>
+<tr><td>Track concurrent users in real-time, and monitor user behaviors in the aggregate to determine how well the service meets user needs</td> <td>What we did </td></tr>
+<tr><td>Publish metrics internally</td> <td>What we did </td></tr>
+<tr><td>Publish metrics externally</td> <td>What we did </td></tr>
+<tr><td>Use an experimentation tool that supports multivariate testing in production</td> <td>What we did </td></tr>
 </table>
 
-** Play 13: Default to open source**
+** Play 13: Default to open **
 <table>
 <tr><td><b>Checklist</b></td> <td><b>What we did</b></td></tr>
-<tr><td>Checklist</td> <td>What we did </td></tr>
-<tr><td>Checklist</td> <td>What we did </td></tr>
-<tr><td>Checklist</td> <td>What we did </td></tr>
-<tr><td>Checklist</td> <td>What we did </td></tr>
-<tr><td>Checklist</td> <td>What we did </td></tr>
+<tr><td>Offer users a mechanism to report bugs and issues, and be responsive to these reports</td> <td>What we did </td></tr>
+<tr><td>Provide datasets to the public, in their entirety, through bulk downloads and APIs (application programming interfaces)</td> <td>What we did </td></tr>
+<tr><td>Ensure that data from the service is explicitly in the public domain, and that rights are waived globally via an international public domain dedication, such as the “Creative Commons Zero” waiver</td> <td>What we did </td></tr>
+<tr><td>Catalog data in the agency’s enterprise data inventory and add any public datasets to the agency’s public data listing</td> <td>What we did </td></tr>
+<tr><td>Ensure that we maintain the rights to all data developed by third parties in a manner that is releasable and reusable at no cost to the public</td> <td>What we did </td></tr>
+<tr><td>Ensure that we maintain contractual rights to all custom software developed by third parties in a manner that is publishable and reusable at no cost</td> <td>What we did </td></tr>
+<tr><td>When appropriate, create an API for third parties and internal users to interact with the service directly</td> <td>What we did </td></tr>
+<tr><td>When appropriate, publish source code of projects or components online</td> <td>What we did </td></tr>
+<tr><td>When appropriate, share your development process and progress publicly</td> <td>What we did </td></tr>
 </table>
 
