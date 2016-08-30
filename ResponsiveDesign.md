@@ -11,3 +11,5 @@ rapidly emulate the experience of different platforms throughout the development
 In addition that that we tested on multiple devices including the iphone, ipad and andriod.
 
 We used browserstack tool to test the screens on multiple screens.
+
+<img src="https://github.com/spinsys/agile/blob/master/images/responsive/dhs-home-mobile-v1.png">
