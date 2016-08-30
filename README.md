@@ -58,9 +58,7 @@ We used three sources of feedback on our work code before it gets integrated int
  After pushing code changes to the published branch, a review must be requested.  Login to Beanstalk (https://spinsys.beanstalkapp.com/) and select the appropriate repository.  Click the Review tab, and click the "Request a Review" drop-down menu.  In the dialog, enter a description, check "Merge to master when approved," and assign the appropriate reviewer. 
 The reviewer will login to Beanstalk, from the Dashboard select the review and click the Code tab.  When satisfied with the changes, the reviewer can click Approve & Merge at the bottom of the page, which will merge the code into the Master branch, and trigger a build in TeamCity.
  
- 3.**Style Cop**
- 
- 4.**Static Code Analysis**
+ 3.**Static Code Analysis**
 
 Our goal is to allow developers to push their code in quickly and safely. 
 We think that one way to achieve this is to provide early feedback to developers, during the development process, 
@@ -82,8 +80,9 @@ So we decided to run the static code analysis on the local build process so that
 This way, the static analysis report is displayed at the local developer box so that the developer can fix the code 
 before it is committed.
 
-Static analyzers look at code and find problems before you run it. They do simple checks, like enforcing syntax (for example, tabs instead of spaces), and more holistic checks, 
-like making sure your functions aren’t too complex. We used *JSHint* as the static code analyzer to analyze the front end code.
+Static analyzers look at code and find problems before you run it. They do simple checks, like enforcing syntax (for example, tabs instead of spaces), and more holistic checks, like making sure your functions aren’t too complex. We used *JSHint* as the static code analyzer to analyze the front end code.
+
+
 *JSHint* is a program that flags suspicious usage in programs written in JavaScript. 
 
 #Create automated tests that verify all user-facing functionality
