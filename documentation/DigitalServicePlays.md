@@ -74,8 +74,8 @@ The pages we designed for this prototype had a nice title to let the users about
 <tr><td><b>Checklist</b></td> <td><b>What we did</b></td></tr>
 <tr><td>A product owner has been identified</td> <td>Ramesh Ramaraj was identified as the product owner on our side. </td></tr>
 <tr><td>All stakeholders agree that the product owner has the authority to assign tasks and make decisions about features and technical implementation details</td> <td>Ramesh Ramaraj was assigned as leader and given authority, responsibility, and accountability for the quality of the prototype </td></tr>
-<tr><td>The product owner has a product management background with technical experience to assess alternatives and weigh tradeoffs</td> <td>Ramesh has over 15 years of technical and product management experience implementing and managing product development engagements.He is a Pragamatic Framework Certified Product Manager</td></tr>
-<tr><td>The product owner has a work plan that includes budget estimates and identifies funding sources</td> <td>What we did </td></tr>
+<tr><td>The product owner has a product management background with technical experience to assess alternatives and weigh tradeoffs</td> <td>Ramesh has over 15 years of technical and product management experience implementing and managing product development engagements.He is a Pragamatic Framework Certified Product Manager.  He also has engineering background and understands agile methodologies and he is PMI-ACP,CSM,CSPO certified.</td></tr>
+<tr><td>The product owner has a work plan that includes budget estimates and identifies funding sources</td> <td>Not applicable for this challenge </td></tr>
 <tr><td>The product owner has a strong relationship with the contracting officer</td> <td>Not applicable for this challenge </td></tr>
 </table>
 
@@ -95,47 +95,47 @@ The pages we designed for this prototype had a nice title to let the users about
 **Play 8. Choose a modern technology stack**
 <table>
 <tr><td><b>Checklist</b></td> <td><b>What we did</b></td></tr>
-<tr><td>Choose software frameworks that are commonly used by private-sector companies creating similar services</td> <td>We selected modern open source frameworks and tools. You can check our tool stack here </td></tr>
-<tr><td>Whenever possible, ensure that software can be deployed on a variety of commodity hardware types</td> <td>What we did </td></tr>
-<tr><td>Ensure that each project has clear, understandable instructions for setting up a local development environment, and that team members can be quickly added or removed from projects</td> <td>What we did </td></tr>
-<tr><td>Consider open source software solutions at every layer of the stack</td> <td>What we did </td></tr>
+<tr><td>Choose software frameworks that are commonly used by private-sector companies creating similar services</td> <td>We selected modern open source frameworks and tools. **You can check our tool stack here** </td></tr>
+<tr><td>Whenever possible, ensure that software can be deployed on a variety of commodity hardware types</td> <td>The UI was developed and tested to work on multipe devices using a responsive design. </td></tr>
+<tr><td>Ensure that each project has clear, understandable instructions for setting up a local development environment, and that team members can be quickly added or removed from projects</td> <td>The deployment process is simplified with TeamCity</td></tr>
+<tr><td>Consider open source software solutions at every layer of the stack</td> <td>We used Open Source tools.  </td></tr>
 </table>
 
 **Play 9. Deploy in a flexible hosting environment**
 <table>
 <tr><td><b>Checklist</b></td> <td><b>What we did</b></td></tr>
-<tr><td>Resources are provisioned on demand</td> <td>What we did </td></tr>
-<tr><td>Resources scale based on real-time user demand</td> <td>What we did </td></tr>
-<tr><td>Resources are provisioned through an API</td> <td>What we did </td></tr>
-<tr><td>Resources are available in multiple regions</td> <td>What we did </td></tr>
-<tr><td>We only pay for resources we use</td> <td>What we did </td></tr>
-<tr><td>Static assets are served through a content delivery network</td> <td>What we did </td></tr>
-<tr><td>Application is hosted on commodity hardware</td> <td>What we did </td></tr>
+<tr><td>Resources are provisioned on demand</td> <td>Resources are provisioned through AWS </td></tr>
+<tr><td>Resources scale based on real-time user demand</td> <td>We did not configure the AWS Load Balancer for this challenge exercise </td></tr>
+<tr><td>Resources are provisioned through an API</td> <td>Our continuous integration automation integrates with AWS API for provisioning and configuration </td></tr>
+<tr><td>Resources are available in multiple regions</td> <td>Our prototype application is deployed in an AWS environment in Virginia. In an actual production deployment resources can be deployed to multiple regions (data center) depending on availability requirements.</td></tr>
+<tr><td>We only pay for resources we use</td> <td>Our environment costs are based on per minute metering. Resources can be quickly scaled up or down depending on operating and development environment needs.</td></tr>
+<tr><td>Static assets are served through a content delivery network</td> <td>We did not configure a content delivery network (CDN) for the prototype due to the low user load. Amazon AWS provides for the deployment of a CDN through its numerous edge network points. </td></tr>
+<tr><td>Application is hosted on commodity hardware</td> <td>AWS utilizes an underlying commodity hardware based infrastructure.  </td></tr>
 </table>
 
 **Play 10.Automate testing and deployments**
 <table>
 <tr><td><b>Checklist</b></td> <td><b>What we did</b></td></tr>
-<tr><td>Create automated tests that verify all user-facing functionality</td> <td>What we did </td></tr>
-<tr><td>Create unit and integration tests to verify modules and components</td> <td>What we did </td></tr>
+<tr><td>Create automated tests that verify all user-facing functionality</td> <td>We used Test Driven Development (TDD) techniques that include unit tests in the automated build process </td></tr>
+<tr><td>Create unit and integration tests to verify modules and components</td> <td>Both automated unit and integration tests are included in our continuous integration process </td></tr>
 <tr><td>Run tests automatically as part of the build process
-</td> <td>What we did </td></tr>
-<tr><td>Perform deployments automatically with deployment scripts, continuous delivery services, or similar techniques</td> <td>What we did </td></tr>
-<tr><td>Conduct load and performance tests at regular intervals, including before public launch</td> <td>What we did </td></tr>
+</td> <td>Team City automatically executes unit and integration tests as part of the build process </td></tr>
+<tr><td>Perform deployments automatically with deployment scripts, continuous delivery services, or similar techniques</td> <td>TeamCity automatically deploys successful builds </td></tr>
+<tr><td>Conduct load and performance tests at regular intervals, including before public launch</td> <td>In an actual production project, we would incorporpate performance/load testing in our continuous integration pipeline. We used Blazemeter to simulate Load and Performance testing on the Staging environment. </td></tr>
 </table>
 
 **Play 11: Manage security and privacy through reusable processe**
  <table>
 <tr><td><b>Checklist</b></td> <td><b>What we did</b></td></tr>
-<tr><td>Contact the appropriate privacy or legal officer of the department or agency to determine whether a System of Records Notice (SORN), Privacy Impact Assessment, or other review should be conducted</td> <td>What we did </td></tr>
-<tr><td>Determine, in consultation with a records officer, what data is collected and why, how it is used or shared, how it is stored and secured, and how long it is kept</td> <td>What we did </td></tr>
-<tr><td>Determine, in consultation with a privacy specialist, whether and how users are notified about how personal information is collected and used, including whether a privacy policy is needed and where it should appear, and how users will be notified in the event of a security breach</td> <td>What we did </td></tr>
-<tr><td>Consider whether the user should be able to access, delete, or remove their information from the service</td> <td>What we did </td></tr>
-<tr><td>“Pre-certify” the hosting infrastructure used for the project using FedRAMP</td> <td>What we did </td></tr>
-<tr><td>Use deployment scripts to ensure configuration of production environment remains consistent and controllable</td> <td>What we did </td></tr>
+<tr><td>Contact the appropriate privacy or legal officer of the department or agency to determine whether a System of Records Notice (SORN), Privacy Impact Assessment, or other review should be conducted</td> <td>Not in scope for this challenge </td></tr>
+<tr><td>Determine, in consultation with a records officer, what data is collected and why, how it is used or shared, how it is stored and secured, and how long it is kept</td> <td>Not in scope for this challenge</td></tr>
+<tr><td>Determine, in consultation with a privacy specialist, whether and how users are notified about how personal information is collected and used, including whether a privacy policy is needed and where it should appear, and how users will be notified in the event of a security breach</td> <td>Not in scope for this challenge </td></tr>
+<tr><td>Consider whether the user should be able to access, delete, or remove their information from the service</td> <td>Not in scope for this challenge/td></tr>
+<tr><td>“Pre-certify” the hosting infrastructure used for the project using FedRAMP</td> <td>AWS is FedRAMP certified. Our prototype also implemented application security using JSON Web Tokens. In an actual production application additional security measures would be taken including additional application security controls, data encryption and security event monitoring. </td></tr>
+<tr><td>Use deployment scripts to ensure configuration of production environment remains consistent and controllable</td> <td>We used Teamcity to perform this process </td></tr>
 </table>
 
- ** Play 12: Use data to drive decisions**
+ ##Play 12: Use data to drive decisions
  <table>
 <tr><td><b>Checklist</b></td> <td><b>What we did</b></td></tr>
 <tr><td>Monitor system-level resource utilization in real time</td> <td>What we did </td></tr>
@@ -151,14 +151,14 @@ The pages we designed for this prototype had a nice title to let the users about
 ** Play 13: Default to open **
 <table>
 <tr><td><b>Checklist</b></td> <td><b>What we did</b></td></tr>
-<tr><td>Offer users a mechanism to report bugs and issues, and be responsive to these reports</td> <td>What we did </td></tr>
-<tr><td>Provide datasets to the public, in their entirety, through bulk downloads and APIs (application programming interfaces)</td> <td>What we did </td></tr>
+<tr><td>Offer users a mechanism to report bugs and issues, and be responsive to these reports</td> <td> Not in scope for this challenge </td></tr>
+<tr><td>Provide datasets to the public, in their entirety, through bulk downloads and APIs (application programming interfaces)</td> <td>Data from our prototype is not proprietary. </td></tr>
 <tr><td>Ensure that data from the service is explicitly in the public domain, and that rights are waived globally via an international public domain dedication, such as the “Creative Commons Zero” waiver</td> <td>What we did </td></tr>
-<tr><td>Catalog data in the agency’s enterprise data inventory and add any public datasets to the agency’s public data listing</td> <td>What we did </td></tr>
+<tr><td>Catalog data in the agency’s enterprise data inventory and add any public datasets to the agency’s public data listing</td> <td>Data from our prototype is not proprietary. </td></tr>
 <tr><td>Ensure that we maintain the rights to all data developed by third parties in a manner that is releasable and reusable at no cost to the public</td> <td>What we did </td></tr>
 <tr><td>Ensure that we maintain contractual rights to all custom software developed by third parties in a manner that is publishable and reusable at no cost</td> <td>What we did </td></tr>
-<tr><td>When appropriate, create an API for third parties and internal users to interact with the service directly</td> <td>What we did </td></tr>
-<tr><td>When appropriate, publish source code of projects or components online</td> <td>What we did </td></tr>
-<tr><td>When appropriate, share your development process and progress publicly</td> <td>What we did </td></tr>
+<tr><td>When appropriate, create an API for third parties and internal users to interact with the service directly</td> <td>Not in scope for this challenge</td></tr>
+<tr><td>When appropriate, publish source code of projects or components online</td> <td>We uploaded our content in GitHub </td></tr>
+<tr><td>When appropriate, share your development process and progress publicly</td> <td>We uploaded our content in GitHub </td></tr>
 </table>
 
