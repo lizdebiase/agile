@@ -38,12 +38,14 @@ In order to maintain healthy code among the team, any team shared code was subje
 
 We used three sources of feedback on our work code before it gets integrated into the codebase: unit tests, code reviews and static code analysis.
  
- _Diagram_
-#Unit Tests
+ _Diagram comes here.
+ 
+1.Unit Tests
+2.Code Coverage
+3.Code Reviews
+3.Style Cop
+4.Static Code Analysis
 
-#Code Reviews
-
-##Static Code Analysis
 Our goal is to allow developers to push their code in quickly and safely. 
 We think that one way to achieve this is to provide early feedback to developers, during the development process, 
 so that they feel confident that they are not going to break something. 
