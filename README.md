@@ -53,8 +53,13 @@ In order to determine what proportion of our project's code is actually being te
  
  3.**Code Reviews**
  
- After pushing code changes to the published branch, a review must be requested.  Login to Beanstalk (https://spinsys.beanstalkapp.com/) and select the appropriate repository.  Click the Review tab, and click the "Request a Review" drop-down menu.  In the dialog, enter a description, check "Merge to master when approved," and assign the appropriate reviewer. 
-The reviewer will login to Beanstalk, from the Dashboard select the review and click the Code tab.  When satisfied with the changes, the reviewer can click Approve & Merge at the bottom of the page, which will merge the code into the Master branch, and trigger a build in TeamCity.
+ We implemented code reviews in our development process to give more eyes on the code to sport potential vulnerabilities and fix them before it is checked into the master branch. Also it provided the members of the team to learn from each other by reviewing each other’s code. 
+ 
+ Here’s the workflow:
+ 
+ - Once the feature branch is reading for testing, developers requested code reviews in the BeanStalk App using the Request a Review feature.
+ -  As a team, the reviewers reviewed the code in Beanstalk app and logged issues.Developers committed additional changes to the branches to fix the discovered issues in code review.
+ -  Once the branch is error free, the branch was approved and it was merged into the master branch.
  
  3.**Static Code Analysis**
 
