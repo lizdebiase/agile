@@ -10,8 +10,17 @@ We used the following three environments that were provisioned using AWS.
  [https://dhsuat.spinsys.com](https://dhsuat.spinsys.com/dhsweb "UAT Environment")
 
 + Prod Environment : We used this environment to release the final MVP after the end of two sprints.[https://dhsprod.spinsys.com](https://dhsprod.spinsys.com/dhsweb "Dev Environment")
-***
+
 #Application Architecture
+One of the goals of the architecture is to surface the data in a simple way so that we can add new ways to get to the data or even add data quickly. We stored the data in SQL Server and we choose Entity Framework (EF)  to rapidly create data models . We used ASP.NET Web API to serve JSON data.
+
++ **Front End Layer: We used Angular JS, one of the most powerful and adaptive Javascript framework and Bootstrap, popular CSS responsive front-end framework to build our dynamic and responsive UI.s our responsive screens.These two framework enabled our development team to build a modular and easily testable application.
+
++ **ASP.NET RESTFUL Web API Backend Layer: We used The ASP.NET Web API , one of the Microsoft open source technology to build the powerful REST Services. It exposed CRUD operations on the data. We used The Repository Pattern to create abstract layer by isolating business objects from Data Access Layer. With this we maximize the amount of code for automated unit testing and isolated data access from data store. This pattern allowed us  to centralize data access, code readability and maintainability and have flexible architecture. We built the API using REST architecture principles
+
++ **Entity Framework Layer : Entity framework is an object-relational mapping framework(ORM) that enabled our team to work with relational data using domain-specific objects and provided a conceptual model of the domain entities. It allowed to translate the C# models used by Web API into database entities.
+
+At a high level, here is the architecture of the application
 #Tool Stack
 #Coding Practices & Automated Testing
 #Development Workflow & DEVOPS
