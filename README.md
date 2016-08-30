@@ -179,8 +179,12 @@ Before we began core development  we spent time in our Sprint 0: Create Story Ma
     - Feedback 2
 - Total Points completed
 - Retrospectives
+| Postives        | Delta       |
+| ------------- |:-------------:| 
+| positive 1      | change 1 | 
+| positive 2     | change 2      | 
 
-    - Positives |  Deltas
+
   
 #10.Digital Services Playbook
 
