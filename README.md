@@ -20,6 +20,7 @@ The “outside-in” product development approach incorporates the application d
 You can see the responsive web design screenshots here:
 https://github.com/spinsys/agile/blob/master/ResponsiveDesign.md
 
+
 # 3.Environments
 The following three environments were used, and provisioned using AWS.
 
