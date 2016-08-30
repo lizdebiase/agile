@@ -4,7 +4,24 @@ The challenge is for the Offeror to develop a responsive web app that will be us
 
 We brought a highly-skilled, cross-functional team for this effort who have experience in creating modern digital applications.[**_Digital Services Play#7 :Bring in experienced teams_**]
 We created our MVP following responsive design principles. We implemented our front-end with the Bootstrap framework to provide a completely responsive experience. We conducted usability tests to observe users on these platforms and used Google’s chrome mobile display test tool to emulate the experience of different platforms.
+
 We closely followed the Digital Services playbook guidelines as detailed in the link below:U.S. Digital Services Playbook (https://playbook.cio.gov)
+
+###Our Digital Service Plays
+
+1. *Understand What People Need*
+2. *Address the whole experience, from start to finish*
+3. *Make it simple and intuitive*
+4. *Build the service using agile and Iterative practices*
+5. *Structure budget and contracts to support delivery*
+6. *Assign on leader and hold that person accountable*
+7. *Bring in experienced Teams*
+8. *Choose a modern technology stack*
+9. *Deploy in a flexible hosting environment*
+10.*Automate testing and deployments*
+11. *Manage security and privacy through reusable processes*
+12. *Use data to drive decisions*
+13. *Default to open source*
 
 ** add screenshots of the app 
 You can see the responsive web design screenshots here:
@@ -252,11 +269,6 @@ Before we began core development  we spent time in our Sprint 0: Create Story Ma
 | positive 1      | change 1 | 
 | positive 2     | change 2   | 
 
-
-  
-#10.Digital Services Playbook
-
-We closely followed the Digital Services playbook guidelines as detailed in the link below:U.S. Digital Services Playbook (https://playbook.cio.gov)
 
 
 
