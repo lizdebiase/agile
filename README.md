@@ -48,6 +48,11 @@ We used three sources of feedback on our work code before it gets integrated int
  
  2.**Code Coverage**
  
+ Once code is checked into the VCS(GIT) the CI/CD(Teamcity) tool triggers a new build. Then coded unit tests will be run by the Teamcity. Code coverage for unit tests is captured by Jetbrains dotCover which is part of Teamcity. Then at the end of the unit test, Teamcity provides a detailed report of test results and code coverage.
+ 
+![Code Coverage] (https://github.com/spinsys/agile/blob/master/images/CodeCoverageAPI.PNG)
+
+ 
  3.**Code Reviews**
  
  After pushing code changes to the published branch, a review must be requested.  Login to Beanstalk (https://spinsys.beanstalkapp.com/) and select the appropriate repository.  Click the Review tab, and click the "Request a Review" drop-down menu.  In the dialog, enter a description, check "Merge to master when approved," and assign the appropriate reviewer. 
