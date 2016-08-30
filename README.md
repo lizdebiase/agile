@@ -53,7 +53,7 @@ A high level architecture of the application:
 # 5.Tool Stack
 We developed the prototype with **14** modern, open source technologies most appropriate to implement the prototype.
 
-![stack] (https://github.com/spinsys/dhs/blob/master/images/ApplicationStack.png "stack")
+![stack] (https://github.com/spinsys/agile/blob/master/images/application-stack-v2.png "stack")
 
 # 6.Coding Practices & Automated Testing
 
