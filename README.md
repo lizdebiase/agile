@@ -145,7 +145,7 @@ You can see our mockups here:
 https://github.com/spinsys/agile/blob/master/mockups.md
 
 You can see our Personas here:
-https://github.com/spinsys/agile/blob/master/personas.md
+https://github.com/spinsys/agile/blob/master/Personas.md
 
 #9.Agile Process & Artifacts
 We developed our prototype using an iterative approach where feedback informed subsequent versions of the prototype. We had a Sprint ‘0’ followed by 2 Sprints.  We conducted sprint planning at the beginning of each sprint and conducted a prototype demonstration and retrospective at the end of each sprint.We executed this challenge with an agile approach, delivering working software every 1.5 hours, and building in an ability to respond to change.
