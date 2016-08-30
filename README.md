@@ -48,7 +48,7 @@ We used three sources of feedback on our work code before it gets integrated int
  
  2.**Code Coverage**
  
- Once code is checked into the VCS(GIT) the CI/CD(Teamcity) tool triggers a new build. Then coded unit tests will be run by the Teamcity. Code coverage for unit tests is captured by Jetbrains dotCover which is part of Teamcity. Then at the end of the unit test, Teamcity provides a detailed report of test results and code coverage.
+In order to determine what proportion of our project's code is actually being tested by our unit tests, we used code coverage tool provided by the our CI/CD tool Teamcity. Teamcity provides code coverage tool built in which is called JetBrains DotCover running on .NET Framework 3.5 or higher. Once code is checked into the VCS(GIT), Teamcity triggers a new build. Then coded unit tests will be run by the Teamcity. Then at the end of the unit test, Teamcity provided us with a detailed report of test results and code coverage. 
  
 ![Code Coverage] (https://github.com/spinsys/agile/blob/master/images/CodeCoverageAPI.PNG)
 
