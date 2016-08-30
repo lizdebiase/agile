@@ -33,69 +33,69 @@
 <tr><td>Use the design style guide consistently for related digital services</td> <td>We created our style guide for this exercise.
 https://github.com/spinsys/agile/blob/master/style-guide.md </td></tr>
 <tr><td>Give users clear information about where they are in each step of the process</td> <td>
-We continuously utilized WAVE (from WebAIM) to ensure WCAG 2 (AA) compliance. On a longer term engagement, we would implement automated accessibility testing as part of the continuous integration process</td></tr>
-<tr><td>Follow accessibility best practices to ensure all people can use the service</td> <td>What we did </td></tr>
-<tr><td>Provide users with a way to exit and return later to complete the process</td> <td>What we did </td></tr>
-<tr><td>Use language that is familiar to the user and easy to understand</td> <td>What we did </td></tr>
-<tr><td>Use language and design consistently throughout the service, including online and offline touch points</td> <td>What we did </td></tr>
+The pages we designed for this prototype had a nice title to let the users about the step /page.</td></tr>
+<tr><td>Follow accessibility best practices to ensure all people can use the service</td> <td>We utilized WAVE to ensure WCAG 2 (AA) compliance.Under normal circumstance, the site will be compliant to section 508 accessibility specification and the compliance tests are part of our development practices, but not formally tested for it. At the time of the submission, the site is partially compliant. Full compliance have not been achieved due to the short duration of the prototype.</td></tr>
+<tr><td>Provide users with a way to exit and return later to complete the process</td> <td>Our application does not have multi-step processes, but the application shows the current data each time the user logs back in. </td></tr>
+<tr><td>Use language that is familiar to the user and easy to understand</td> <td> We worked with the product owner We made sure that the language used is easily understood and do not confuse the users.</td></tr>
+<tr><td>Use language and design consistently throughout the service, including online and offline touch points</td> <td>We executed a quick consistency check. </td></tr>
 </table>
 
 **Play 4. Build the service using agile and Iterative practices**
 <table>
 <tr><td><b>Checklist</b></td> <td><b>What we did</b></td></tr>
-<tr><td>Ship a functioning “minimum viable product” (MVP) that solves a core user need as soon as possible, no longer than three months from the beginning of the project, using a “beta” or “test” period if needed</td> <td>What we did </td></tr>
-<tr><td>Run usability tests frequently to see how well the service works and identify improvements that should be made</td> <td>What we did </td></tr>
-<tr><td>Ensure the individuals building the service communicate closely using techniques such as launch meetings, war rooms, daily standups, and team chat tools</td> <td>What we did </td></tr>
-<tr><td>Keep delivery teams small and focused; limit organizational layers that separate these teams from the business owners</td> <td>What we did </td></tr>
-<tr><td>Release features and improvements multiple times each month</td> <td>What we did </td></tr>
+<tr><td>Ship a functioning “minimum viable product” (MVP) that solves a core user need as soon as possible, no longer than three months from the beginning of the project, using a “beta” or “test” period if needed</td> <td>We focused on the MVP and placed the remaining stories in the low priority. </td></tr>
+<tr><td>Run usability tests frequently to see how well the service works and identify improvements that should be made</td> <td>We incorporated usability tests  at each sprint review and often mid-sprint with the user </td></tr>
+<tr><td>Ensure the individuals building the service communicate closely using techniques such as launch meetings, war rooms, daily standups, and team chat tools</td> <td>Our team collaborated in a large meeting room and via Slack(channel #dhs-challenge. Our scrum meetings were facilitated in the room and we conducted sessions to colloboratively develop pieces of working software. </td></tr>
+<tr><td>Keep delivery teams small and focused; limit organizational layers that separate these teams from the business owners</td> <td>Our team comprised of 9 people , One scrum master, One Product Manager, One Technical Architect, One DevOps Engineer, One FrontEnd Engineer, One Backend Engineer, One UX Designer, Two Test Engineers. They are cross disciplined and everyone worked together to deliver the MVP. </td></tr>
+<tr><td>Release features and improvements multiple times each month</td> <td>Our product manager worked with the product owner and prioritized user stories in the product backlog. </td></tr>
 <tr><td>Create a prioritized list of features and bugs, also known as the “feature backlog” and “bug backlog”</td> <td>What we did </td></tr>
-<tr><td>Use a source code version control system</td> <td>What we did </td></tr>
-<tr><td>Give the entire project team access to the issue tracker and version control system</td> <td>What we did </td></tr>
-<tr><td>Use code reviews to ensure quality</td> <td>What we did </td></tr>
+<tr><td>Use a source code version control system</td> <td>We utilized BeanStalkApp(GIT) for our source code repository. </td></tr>
+<tr><td>Give the entire project team access to the issue tracker and version control system</td> <td>All team members had access to the StoryBoard to add defects. </td></tr>
+<tr><td>Use code reviews to ensure quality</td> <td>We conducted code reviews in BeanStalk App amongst development team members before the code was merged into the master branch.</td></tr>
 
 </table>
 
 **Play 5. Structure budget and contracts to support delivery**
 <table>
 <tr><td><b>Checklist</b></td> <td><b>What we did</b></td></tr>
-<tr><td>Budget includes research, discovery, and prototyping activities</td> <td>What we did </td></tr>
-<tr><td>Contract is structured to request frequent deliverables, not multi-month milestones</td> <td>What we did </td></tr>
-<tr><td>Contract is structured to hold vendors accountable to deliverables</td> <td>What we did </td></tr>
-<tr><td>Contract gives the government delivery team enough flexibility to adjust feature prioritization and delivery schedule as the project evolves</td> <td>What we did </td></tr>
-<tr><td>Contract ensures open source solutions are evaluated when technology choices are made</td> <td>What we did </td></tr>
-<tr><td>Contract specifies that software and data generated by third parties remains under our control, and can be reused and released to the public as appropriate and in accordance with the law</td> <td>What we did </td></tr>
-<tr><td>Contract allows us to use tools, services, and hosting from vendors with a variety of pricing models, including fixed fees and variable models like “pay-for-what-you-use” services</td> <td>What we did </td></tr>
-<tr><td>Contract specifies a warranty period where defects uncovered by the public are addressed by the vendor at no additional cost to the government</td> <td>What we did </td></tr>
-<tr><td>Contract includes a transition of services period and transition-out plan</td> <td>What we did </td></tr>
+<tr><td>Budget includes research, discovery, and prototyping activities</td> <td>Not Applicable for this challenge </td></tr>
+<tr><td>Contract is structured to request frequent deliverables, not multi-month milestones</td> <td>Not Applicable for this challenge </td></tr>
+<tr><td>Contract is structured to hold vendors accountable to deliverables</td> <td>Not Applicable for this challenge</td></tr>
+<tr><td>Contract gives the government delivery team enough flexibility to adjust feature prioritization and delivery schedule as the project evolves</td> <td>Not Applicable for this challenge </td></tr>
+<tr><td>Contract ensures open source solutions are evaluated when technology choices are made</td> <td>Not Applicable for this challenge </td></tr>
+<tr><td>Contract specifies that software and data generated by third parties remains under our control, and can be reused and released to the public as appropriate and in accordance with the law</td> <td>Not Applicable for this challenge </td></tr>
+<tr><td>Contract allows us to use tools, services, and hosting from vendors with a variety of pricing models, including fixed fees and variable models like “pay-for-what-you-use” services</td> <td>Not Applicable for this challenge </td></tr>
+<tr><td>Contract specifies a warranty period where defects uncovered by the public are addressed by the vendor at no additional cost to the government</td> <td>Not Applicable for this challenge</td></tr>
+<tr><td>Contract includes a transition of services period and transition-out plan</td> <td>Not Applicable for this challenge </td></tr>
 </table>
 
 **Play 6. Assign on leader and hold that person accountable**
 <table>
 <tr><td><b>Checklist</b></td> <td><b>What we did</b></td></tr>
-<tr><td>A product owner has been identified</td> <td>What we did </td></tr>
-<tr><td>All stakeholders agree that the product owner has the authority to assign tasks and make decisions about features and technical implementation details</td> <td>What we did </td></tr>
-<tr><td>The product owner has a product management background with technical experience to assess alternatives and weigh tradeoffs</td> <td>What we did </td></tr>
+<tr><td>A product owner has been identified</td> <td>Ramesh Ramaraj was identified as the product owner on our side. </td></tr>
+<tr><td>All stakeholders agree that the product owner has the authority to assign tasks and make decisions about features and technical implementation details</td> <td>Ramesh Ramaraj was assigned as leader and given authority, responsibility, and accountability for the quality of the prototype </td></tr>
+<tr><td>The product owner has a product management background with technical experience to assess alternatives and weigh tradeoffs</td> <td>Ramesh has over 15 years of technical and product management experience implementing and managing product development engagements.He is a Pragamatic Framework Certified Product Manager</td></tr>
 <tr><td>The product owner has a work plan that includes budget estimates and identifies funding sources</td> <td>What we did </td></tr>
-<tr><td>The product owner has a strong relationship with the contracting officer</td> <td>What we did </td></tr>
+<tr><td>The product owner has a strong relationship with the contracting officer</td> <td>Not applicable for this challenge </td></tr>
 </table>
 
 **Play 7. Bring in experienced Teams**
 <table>
 <tr><td><b>Checklist</b></td> <td><b>What we did</b></td></tr>
-<tr><td>Member(s) of the team have experience building popular, high-traffic digital services</td> <td>What we did </td></tr>
-<tr><td>Member(s) of the team have experience designing mobile and web applications</td> <td>What we did </td></tr>
-<tr><td>Member(s) of the team have experience using automated testing frameworks</td> <td>What we did </td></tr>
-<tr><td>Member(s) of the team have experience with modern development and operations (DevOps) techniques like continuous integration and continuous deployment</td> <td>What we did </td></tr>
-<tr><td>Member(s) of the team have experience securing digital services</td> <td>What we did </td></tr>
+<tr><td>Member(s) of the team have experience building popular, high-traffic digital services</td> <td>Most of our team members have been implementing high-traffic and mission-critical digital services </td></tr>
+<tr><td>Member(s) of the team have experience designing mobile and web applications</td> <td>Our Visual Designer and Front End Web Developers have experience designing and implementing modern, responsive mobile and web applications. </td></tr>
+<tr><td>Member(s) of the team have experience using automated testing frameworks</td> <td>Our team members have implemented many projects using automated testing frameworks </td></tr>
+<tr><td>Member(s) of the team have experience with modern development and operations (DevOps) techniques like continuous integration and continuous deployment</td> <td>Our team members have implemented many projects using modern development and DevOps techniques including continuous integration and continuous deployment. </td></tr>
+<tr><td>Member(s) of the team have experience securing digital services</td> <td>Our team members have implemented many projects implementing modern security frameworks, such as SAML and OAuth. </td></tr>
 <tr><td>A Federal contracting officer is on the internal team if a third party will be used for development work</td> <td>What we did </td></tr>
-<tr><td>A Federal budget officer is on the internal team or is a partner</td> <td>What we did </td></tr>
-<tr><td>The appropriate privacy, civil liberties, and/or legal advisor for the department or agency is a partner</td> <td>What we did </td></tr>
+<tr><td>A Federal budget officer is on the internal team or is a partner</td> <td> Not Applicable for this challenge</td></tr>
+<tr><td>The appropriate privacy, civil liberties, and/or legal advisor for the department or agency is a partner</td> <td>Not Applicable for this challenge </td></tr>
 </table>
 
 **Play 8. Choose a modern technology stack**
 <table>
 <tr><td><b>Checklist</b></td> <td><b>What we did</b></td></tr>
-<tr><td>Choose software frameworks that are commonly used by private-sector companies creating similar services</td> <td>What we did </td></tr>
+<tr><td>Choose software frameworks that are commonly used by private-sector companies creating similar services</td> <td>We selected modern open source frameworks and tools. You can check our tool stack here </td></tr>
 <tr><td>Whenever possible, ensure that software can be deployed on a variety of commodity hardware types</td> <td>What we did </td></tr>
 <tr><td>Ensure that each project has clear, understandable instructions for setting up a local development environment, and that team members can be quickly added or removed from projects</td> <td>What we did </td></tr>
 <tr><td>Consider open source software solutions at every layer of the stack</td> <td>What we did </td></tr>
