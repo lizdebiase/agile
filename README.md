@@ -26,11 +26,9 @@ One of the goals of the architecture is to surface the data in a simple way so t
 
 + **Entity Framework Layer:** Entity framework is an object-relational mapping framework(ORM) that enabled our team to work with relational data using domain-specific objects and provided a conceptual model of the domain entities. It allowed to translate the C# models used by Web API into database entities.
 
-At a high level, here is the architecture of the application
-
-<center>
+At a high level, here is the architecture of the application:
 <img src="https://github.com/spinsys/agile/blob/master/images/AppArchitecture.png" alt="architecture" >
-</center>
+
 # 5.Tool Stack
 We developed the prototype with **14** modern, open source technologies most appropriate to implement the prototype.
 
