@@ -101,7 +101,11 @@ _PhantomJS_ is used to execute the tests in a headless browser environment to in
 _Jasmine_ is also used to provide a full featured testing harness and clean readability. 
 Execution is orchestrated through a Grunt task.
 
-  ** Section 508 Testing **
+  ##Section 508 Testing
+  
+  We used the Google Chrome Add-on "Wave" to perform the Section 508 Testing.This tool identified **16 Web standards** that were outlined by DHS Office of Accessible Systems & Technology (OAST) as standard for Web.  Here is a snap shot of the report: 
+  
+  
 #7.Development Workflow & DEVOPS
 
 We used **BeanStalkApp** as our source code repository**(GIT*. The developers created new feature branch to develop the functionality for the feature. We made sure each new feature would reside in its own branch Here’s how the workflow looked like:
