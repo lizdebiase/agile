@@ -63,6 +63,7 @@ In order to determine what proportion of our project's code is actually being te
  
 Here is a snap shot of our code review stats:
 
+<img src="https://github.com/spinsys/agile/blob/master/images/CodeReviewStat.png?raw=true">
 
  3.**Static Code Analysis**
 
