@@ -29,9 +29,11 @@
 **Play 3: Make it simple and intuitive**
 <table>
 <tr><td><b>Checklist</b></td> <td><b>What we did</b></td></tr>
-<tr><td>Use a simple and flexible design style guide for the service. Use the U.S. Web Design Standards as a default</td> <td>What we did </td></tr>
-<tr><td>Use the design style guide consistently for related digital services</td> <td>What we did </td></tr>
-<tr><td>Give users clear information about where they are in each step of the process</td> <td>What we did </td></tr>
+<tr><td>Use a simple and flexible design style guide for the service. Use the U.S. Web Design Standards as a default</td> <td>We implemented a simple, responsive application using bootstrap, html5, angular js, sass and css.  The style and layouts evolved through the iterations and feedback loops with user.</td></tr>
+<tr><td>Use the design style guide consistently for related digital services</td> <td>We created our style guide for this exercise.
+https://github.com/spinsys/agile/blob/master/style-guide.md </td></tr>
+<tr><td>Give users clear information about where they are in each step of the process</td> <td>
+We continuously utilized WAVE (from WebAIM) to ensure WCAG 2 (AA) compliance. On a longer term engagement, we would implement automated accessibility testing as part of the continuous integration process</td></tr>
 <tr><td>Follow accessibility best practices to ensure all people can use the service</td> <td>What we did </td></tr>
 <tr><td>Provide users with a way to exit and return later to complete the process</td> <td>What we did </td></tr>
 <tr><td>Use language that is familiar to the user and easy to understand</td> <td>What we did </td></tr>
