@@ -133,10 +133,10 @@ We developed a design style guide to provide the team with a general reference p
 - Imagery
 - Iconography
 
-In addition to the design style guide, wireframes and a set of High Fidelity mockups were created as part of the desing
+In addition to the design style guide, wireframes and a set of High Fidelity mockups were created as part of the design:
 
 You can see the Wireframes and Mockups here:
-[https://github.com/spinsys/agile/blob/master/style-guide.md]
+https://github.com/spinsys/agile/blob/master/style-guide.md
 
 
 #9.Agile Process & Artifacts
