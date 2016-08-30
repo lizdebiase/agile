@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [DHS_Testing]">
+  <test name="UserRegistration(failed)">
+    <classes>
+      <class name="UserRegistration.Config">
+        <methods>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- UserRegistration.Config -->
+      <class name="UserRegistration.StarRating_NG">
+        <methods>
+          <include name="testStarRatingNG"/>
+        </methods>
+      </class> <!-- UserRegistration.StarRating_NG -->
+      <class name="UserRegistration.UserRegistrationNG">
+        <methods>
+          <include name="testUserRegistrationNG"/>
+        </methods>
+      </class> <!-- UserRegistration.UserRegistrationNG -->
+      <class name="UserRegistration.UserLogin_NG">
+        <methods>
+          <include name="testUserLoginNG"/>
+        </methods>
+      </class> <!-- UserRegistration.UserLogin_NG -->
+    </classes>
+  </test> <!-- UserRegistration(failed) -->
+</suite> <!-- Failed suite [DHS_Testing] -->
