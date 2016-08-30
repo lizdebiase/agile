@@ -1,7 +1,10 @@
 # 1.Challenge Overview
 The challenge is for the Offeror to develop a responsive web app that will be used to report and track staff performance recognition of individuals by their coworkers, including providing “kudos” to peers. This application may include entry of recognition by users, administration activities of users, and reporting.
 # 2.Our Solution: **Recognize**
+
+We brought a highly-skilled, cross-functional team for this effort who have experience in creating modern digital applications.[**_Digital Services Play#7 :Bring in experienced teams_**]
 We created our MVP following responsive design principles. We implemented our front-end with the Bootstrap framework to provide a completely responsive experience. We conducted usability tests to observe users on these platforms and used Google’s chrome mobile display test tool to emulate the experience of different platforms.
+We closely followed the Digital Services playbook guidelines as detailed in the link below:U.S. Digital Services Playbook (https://playbook.cio.gov)
 
 ** add screenshots of the app 
 You can see the responsive web design screenshots here:
