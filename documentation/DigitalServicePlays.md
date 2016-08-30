@@ -1,5 +1,9 @@
 #Our Digital Service Plays
 
+Per the request, we followed all of the applicable playbook plays for the prototype as outlined here
+
+https://playbook.cio.gov/
+
 ##Play 1: Understand What People Need
 
 <table>
