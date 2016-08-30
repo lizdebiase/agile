@@ -61,6 +61,9 @@ In order to determine what proportion of our project's code is actually being te
  -  As a team, the reviewers reviewed the code in Beanstalk app and logged issues.Developers committed additional changes to the branches to fix the discovered issues in code review.
  -  Once the branch is error free, the branch was approved and it was merged into the master branch.
  
+Here is a snap shot of our code review stats:
+
+
  3.**Static Code Analysis**
 
 Our goal is to allow developers to push their code in quickly and safely. 
