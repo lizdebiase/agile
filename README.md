@@ -92,8 +92,6 @@ Static analyzers look at code and find problems before you run it. They do simpl
 
 *JSHint* is a program that flags suspicious usage in programs written in JavaScript. 
 
-#Create automated tests that verify all user-facing functionality
-
 karma- javascript functional tests, checkout out our front end tests
 
 These tests validate the user facing functionality of the site.
