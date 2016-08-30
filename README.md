@@ -94,7 +94,7 @@ We used **BeanStalkApp** as our source code repository**(GIT*. The developers cr
 4. Developers committed the changes to the feature branch and requested code reviews in the BeanStalkApp. Issues were logged for the developer to fix the problems in the code.
 5. Developer’s feature branch code was reviewed and merged into the master branch.
 
-We used **TeamCity** to enable **Continuous Cntegration/Continuous Ceployment(CI/CD)**. As soon as the feature branch is merged into the master branch, **TeamCity** initiated automated  build and deployed the code to our integration environment. As part of automated build process, we executed unit tests and ran code coverage analysis and we adjusted the unit tests for  more coverage. Once all the automated tests ran successfully after continuous integration , our architect deployed the same tested code to the staging environment. The team was always notified in **Slack** channel **#dhs-build** about the automated builds and the results.
+We used **TeamCity** to enable **Continuous Integration/Continuous Ceployment(CI/CD)**. As soon as the feature branch is merged into the master branch, **TeamCity** initiated automated  build and deployed the code to our integration environment. As part of automated build process, we executed unit tests and ran code coverage analysis and we adjusted the unit tests for  more coverage. Once all the automated tests ran successfully after continuous integration , our architect deployed the same tested code to the staging environment. The team was always notified in **Slack** channel **#dhs-build** about the automated builds and the results.
 
 We performed manual testing ( Functional testing, Responsive Testing, Section 508 testing ) on the staging environment.
 
