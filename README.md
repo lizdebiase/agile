@@ -2,28 +2,21 @@
 The challenge is for the Offeror to develop a responsive web app that will be used to report and track staff performance recognition of individuals by their coworkers, including providing “kudos” to peers. This application may include entry of recognition by users, administration activities of users, and reporting.
 # 2.Our Solution: **Recognize**
 
-We brought a highly-skilled, cross-functional team for this effort who have experience in creating modern digital applications.[**_Digital Services Play#7 :Bring in experienced teams_**]
-We created our MVP following responsive design principles. We implemented our front-end with the Bootstrap framework to provide a completely responsive experience. We conducted usability tests to observe users on these platforms and used Google’s chrome mobile display test tool to emulate the experience of different platforms.
+Our team utilized an “outside-in” product development approach to create our prototype. “Outside-in” focuses on the end user’s needs and experience to drive features, along with supporting application program interfaces (API). Focusing on the end user means that their needs are implemented pervasively throughout the application. This practice promotes user satisfaction and adoption through continuous interaction/feedback. Our team utilized the following approach for this prototype:
+
+- Conducted user research to understand needs and trends within related industry. Our User Researcher conducted user interviews with the product owner, along with the identified personas to create the initial application concept.
+- Created initial UI documented as wireframes representing the personas associated with the system. Feedback was incorporated into an updated UI design
+- Identified user stories to form initial product backlog.
+- Developed fully interactive responsive prototype  application. The initial prototype was presented to the representative user base from the user research phase. The findings from users interacting with the application, such as usability improvements, were incorporated into the final design.
+- Developed fully functioning prototype including back end API for data persistence as a series of “vertical slices” allowing testing throughout the effort.
+
+
+We brought a highly-skilled, cross-functional team for this effort who have experience in creating modern digital applications.We created our MVP following responsive design principles. We implemented our front-end with the Bootstrap framework to provide a completely responsive experience. We conducted usability tests to observe users on these platforms and used Google’s chrome mobile display test tool to emulate the experience of different platforms.
 
 We closely followed the Digital Services playbook guidelines as detailed in the link below:U.S. Digital Services Playbook (https://playbook.cio.gov)
 
-###Our Digital Service Plays
+The “outside-in” product development approach incorporates the application development aspects of the U.S. Digital Services Playbook[https://github.com/spinsys/agile/blob/master/documentation/DigitalServicePlays.md] .
 
-1. *Understand What People Need*
-2. *Address the whole experience, from start to finish*
-3. *Make it simple and intuitive*
-4. *Build the service using agile and Iterative practices*
-5. *Structure budget and contracts to support delivery*
-6. *Assign on leader and hold that person accountable*
-7. *Bring in experienced Teams*
-8. *Choose a modern technology stack*
-9. *Deploy in a flexible hosting environment*
-10.*Automate testing and deployments*
-11. *Manage security and privacy through reusable processes*
-12. *Use data to drive decisions*
-13. *Default to open source*
-
-** add screenshots of the app 
 You can see the responsive web design screenshots here:
 https://github.com/spinsys/agile/blob/master/ResponsiveDesign.md
 
