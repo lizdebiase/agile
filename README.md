@@ -40,11 +40,15 @@ We used three sources of feedback on our work code before it gets integrated int
  
  _Diagram comes here.
  
- 1.Unit Tests
- 2.Code Coverage
- 3.Code Reviews
- 3.Style Cop
- 4.Static Code Analysis
+ 1.**Unit Tests**
+ 
+ 2.**Code Coverage**
+ 
+ 3.**Code Reviews**
+ 
+ 3.**Style Cop**
+ 
+ 4.**Static Code Analysis**
 
 Our goal is to allow developers to push their code in quickly and safely. 
 We think that one way to achieve this is to provide early feedback to developers, during the development process, 
@@ -79,7 +83,7 @@ _PhantomJS_ is used to execute the tests in a headless browser environment to in
 _Jasmine_ is also used to provide a full featured testing harness and clean readability. 
 Execution is orchestrated through a Grunt task.
 
-
+  ** Section 508 Testing **
 #7.Development Workflow & DEVOPS
 
 We used **BeanStalkApp** as our source code repository**(GIT*. The developers created new feature branch to develop the functionality for the feature. We made sure each new feature would reside in its own branch Here’s how the workflow looked like:
