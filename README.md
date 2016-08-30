@@ -167,22 +167,27 @@ Before we began core development  we spent time in our Sprint 0: Create Story Ma
 
 **Sprint 2**
 
-- Sprint Planning:
+**Goal* : Deliver this
+|User Stories Planned:    |
+| ------------- |
+| Story 1 (estimate points)| 
+| Story 2 (estimate points) | 
 
-    - Goal: Deliver
-    - User Stories Planned for this Sprint: US 1
-    - Estimates
-- Sprint Review/Demo
-- Feedback:
+**Total Points Planned**:
+**Velocity Achieved**
+**Burndown Chart**
 
-    - Feedback 1
-    - Feedback 2
-- Total Points completed
-- Retrospectives
-| Postives        | Delta       |
-| ------------- |:-------------:| 
+|Feedback    |
+| ------------- |
+| Feedback 1| 
+| Feedback 2  | 
+
+** Retrospectives
+
+| Postives      | Delta       |
+| ------------- |-------------| 
 | positive 1      | change 1 | 
-| positive 2     | change 2      | 
+| positive 2     | change 2   | 
 
 
   
