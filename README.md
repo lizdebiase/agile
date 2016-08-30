@@ -139,6 +139,40 @@ Before we began core development  we spent time in our Sprint 0: Create Story Ma
                 - How does the user interact with the application / website?
 
  Our  designer used industry best practices and recommended enhancements to the navigation, presentation, content and interaction represented in the wireframe. Through rounds of usability testing and user interviews, we continually updated the wireframe. We shared it with developers and used the Trello board. While the developers coded core functionality, team members focused on user design continued to talk with the product user and updated wireframes to match recommendations on look, layout and textual elements.
+ 
+ **Sprint 1**
+
+- Sprint Planning:
+
+    - Goal: Deliver
+    - User Stories Planned for this Sprint: US 1
+    - Estimates
+- Sprint Review/Demo
+- Feedback:
+
+    - Feedback 1
+    - Feedback 2
+- Total Points completed
+- Retrospectives
+
+    - Positives |  Deltas
+
+**Sprint 2**
+
+- Sprint Planning:
+
+    - Goal: Deliver
+    - User Stories Planned for this Sprint: US 1
+    - Estimates
+- Sprint Review/Demo
+- Feedback:
+
+    - Feedback 1
+    - Feedback 2
+- Total Points completed
+- Retrospectives
+
+    - Positives |  Deltas
   
 #10.Digital Services Playbook
 
