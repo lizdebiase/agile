@@ -13,3 +13,6 @@ In addition that that we tested on multiple devices including the iphone, ipad a
 We used browserstack tool to test the screens on multiple screens.
 
 <img src="https://github.com/spinsys/agile/blob/master/images/responsive/dhs-kudos-mobile-.png">
+<img src="https://github.com/spinsys/agile/blob/master/images/responsive/dhs-welcome-1000pxfluid-dashboard.png">
+<img src="https://github.com/spinsys/agile/blob/master/images/responsive/dhs-welcome-1000pxfluid-v2.png">
+
