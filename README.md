@@ -148,6 +148,10 @@ Before we began core development  we spent time in our Sprint 0: Create Story Ma
 
  Our  designer used industry best practices and recommended enhancements to the navigation, presentation, content and interaction represented in the wireframe. Through rounds of usability testing and user interviews, we continually updated the wireframe. We shared it with developers and used the Trello board. While the developers coded core functionality, team members focused on user design continued to talk with the product user and updated wireframes to match recommendations on look, layout and textual elements.
  
+ ##StoryMap
+ 
+ [Story Map] (https://github.com/spinsys/agile/blob/master/images/Dhs_challenge.png)
+ 
  **Sprint 1**
 
 **Goal* : Deliver this
