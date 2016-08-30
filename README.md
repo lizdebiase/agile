@@ -168,6 +168,7 @@ Before we began core development  we spent time in our Sprint 0: Create Story Ma
 **Sprint 2**
 
 **Goal* : Deliver this
+
 |User Stories Planned:    |
 | ------------- |
 | Story 1 (estimate points)| 
