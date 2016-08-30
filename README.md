@@ -2,6 +2,10 @@
 The challenge is for the Offeror to develop a responsive web app that will be used to report and track staff performance recognition of individuals by their coworkers, including providing “kudos” to peers. This application may include entry of recognition by users, administration activities of users, and reporting.
 # 2.Our Solution: **Recognize**
 Our prototype works on multiple devices and is a responsive design. We implemented our front-end with the Bootstrap framework to provide a completely responsive experience. We conducted usability tests to observe users on these platforms and used Google’s chrome mobile display test tool to emulate the experience of different platforms.
+
+** add screenshots of the app 
+** add a link that will take to the responsive screenshots
+
 # 3.Environments
 We used the following three environments that were provisioned using AWS.
 
