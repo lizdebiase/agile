@@ -22,6 +22,9 @@ One of the goals of the architecture is to surface the data in a simple way so t
 
 At a high level, here is the architecture of the application
 
+![ar] (https://github.com/spinsys/dhs/blob/master/images/AppArchitecture.png "Architecture")
+
+
 #Tool Stack
 We developed the prototype with 14 modern, open source technologies most appropriate to implement the prototype.
 
