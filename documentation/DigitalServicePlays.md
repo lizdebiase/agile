@@ -5,24 +5,24 @@
 <table>
 <tr><td><b>Checklist</b></td> <td><b>What we did</b></td></tr>
 <tr><td>Early in the project, spend time with current and prospective users of the service</td> <td>As part of our Sprint zero and backlog grooming sessions, We worked with the product owner/prospective user to understand the requirements of the challenge and the vision of the MVP </td></tr>
-<tr><td>Use a range of qualitative and quantitative research methods to determine people’s goals, needs, and behaviors; be thoughtful about the time spent</td> <td> We used persona sketching to identify the different user types in the product and documented their needs https://github.com/spinsys/agile/blob/master/Personas.md </td></tr>
-<tr><td>Test prototypes of solutions with real people, in the field if possible</td> <td>- During the sprint and at the end of the sprints we created wireframes , mockup designs to validate the requirements for the product
+<tr><td>Use a range of qualitative and quantitative research methods to determine people’s goals, needs, and behaviors; be thoughtful about the time spent</td> <td>Our Interaction designer researcher met with the product owner /user and elicited information about their preferences, habits, expectations for easy-to-use systems, and their preconceptions about the processes related to employee recognition. We used this information to identify target audiences and their goals/needs/behaviors. We used persona sketching to identify the different user types in the product and documented their needs https://github.com/spinsys/agile/blob/master/Personas.md </td></tr>
+<tr><td>Test prototypes of solutions with real people, in the field if possible</td> <td>- During the sprint and at the end of the sprints , Our interaction designer facilitated a walkthrough of an early wireframe prototype to get feedback.
     - Our Mockups: https://github.com/spinsys/agile/blob/master/mockups.md
     - Our Wireframes:https://github.com/spinsys/agile/blob/master/wireframes.md </td></tr>
 <tr><td>Document the findings about user goals, needs, behaviors, and preferences</td> <td>We documented the user goals ,needs , behaviors and their preferences in the personas and documented them as user stories in our story mapping tool (stories onboard and trell0) </td></tr>
-<tr><td>Share findings with the team and agency leadership</td> <td>We documented all the user stories along with the acceptance criteria and a visual product backlog  was always available for the team in the information radiator (TV) </td></tr>
-<tr><td>Create a prioritized list of tasks the user is trying to accomplish, also known as “user stories”</td> <td>WDuring Sprint zero and as well as in Sprint Planning we prioritized the user stories in our Story mapping tool</td></tr>
-<tr><td>As the digital service is being built, regularly test it with potential users to ensure it meets people’s needs</td> <td>During the sprint and at the end of the sprints we received feedback from the product owner and the user and adjusted the deliverables so we deliver more value </td></tr>
+<tr><td>Share findings with the team and agency leadership</td> <td>We documented all the user stories along with the acceptance criteria and a visual product backlog  was always available for the team in the information radiator (TV). Feedback was captured and documented as a story card. </td></tr>
+<tr><td>Create a prioritized list of tasks the user is trying to accomplish, also known as “user stories”</td> <td>During Sprint zero and as well as in Sprint Planning we prioritized the user stories in our Story mapping tool</td></tr>
+<tr><td>As the digital service is being built, regularly test it with potential users to ensure it meets people’s needs</td> <td>Periodic user testing of wireframes, early functioning prototypes, and iteration increments was conducted. We used low and high fidelity prototypes iteratively, with user testing between iterations </td></tr>
 </table>
 
 **Play 2: Address the whole experience, from start to finish**
 <table>
 <tr><td><b>Checklist</b></td> <td><b>What we did</b></td></tr>
-<tr><td>Understand the different points at which people will interact with the service – both online and in person</td> <td>What we did </td></tr>
-<tr><td>Identify pain points in the current way users interact with the service, and prioritize these according to user needs</td> <td>What we did </td></tr>
-<tr><td>Design the digital parts of the service so that they are integrated with the offline touch points people use to interact with the service</td> <td>What we did </td></tr>
+<tr><td>Understand the different points at which people will interact with the service – both online and in person</td> <td>We received input from our user regarding how user interact with the application </td></tr>
+<tr><td>Identify pain points in the current way users interact with the service, and prioritize these according to user needs</td> <td>Not Applicable</td></tr>
+<tr><td>Design the digital parts of the service so that they are integrated with the offline touch points people use to interact with the service</td> <td>Not Applicable </td></tr>
 <tr><td>Develop metrics that will measure how well the service is meeting user needs at each step of the service
-</td> <td>What we did </td></tr>
+</td> <td>We skipped this check because of time constraint</td></tr>
 
 </table>
 
