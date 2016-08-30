@@ -1,8 +1,8 @@
-#Challenge Overview
+# 1.Challenge Overview
 The challenge is for the Offeror to develop a responsive web app that will be used to report and track staff performance recognition of individuals by their coworkers, including providing “kudos” to peers. This application may include entry of recognition by users, administration activities of users, and reporting.
-#Our Solution: **Recognize**
+# 2.Our Solution: **Recognize**
 Our prototype works on multiple devices and is a responsive design. We implemented our front-end with the Bootstrap framework to provide a completely responsive experience. We conducted usability tests to observe users on these platforms and used Google’s chrome mobile display test tool to emulate the experience of different platforms.
-#Environments
+# 3.Environments
 We used the following three environments that were provisioned using AWS.
 
 + Developer Integration Environment : is the test and integration environment for all of the developers. This is the environment where all developers validate the integration their code to others', by manual and automated testing.   [https://dhsdev.spinsys.com](https://dhsdev.spinsys.com/dhsweb "Dev Environment")
@@ -13,7 +13,7 @@ We used the following three environments that were provisioned using AWS.
 
 + Prod Environment : We used this environment to release the final MVP after the end of two sprints.[https://dhsprod.spinsys.com](https://dhsprod.spinsys.com/dhsweb "Dev Environment")
 
-#Application Architecture
+# 4.Application Architecture
 One of the goals of the architecture is to surface the data in a simple way so that we can add new ways to get to the data or even add data quickly. We stored the data in SQL Server and we choose Entity Framework (EF)  to rapidly create data models. We used ASP.NET Web API to serve JSON data.
 
 + **Front End Layer:** We used Angular JS, one of the most powerful and adaptive Javascript framework and Bootstrap, popular CSS responsive front-end framework to build our dynamic and responsive UI.s our responsive screens.These two framework enabled our development team to build a modular and easily testable application.
@@ -27,12 +27,12 @@ At a high level, here is the architecture of the application
 ![ar] (https://github.com/spinsys/dhs/blob/master/images/AppArchitecture.png "Architecture")
 
 
-#Tool Stack
+# 5.Tool Stack
 We developed the prototype with **14** modern, open source technologies most appropriate to implement the prototype.
 
 ![stack] (https://github.com/spinsys/dhs/blob/master/images/ApplicationStack.png "stack")
 
-#Coding Practices & Automated Testing
+# 6.Coding Practices & Automated Testing
 
 In order to maintain healthy code among the team, any team shared code was subjected to rigorous automated tests on various perspectives of quality, including code, security, performance, and functionality. Tests were executed automatically as developers submitted code to the repository. Feedback was made available to developers within minutes of the submission on a variety of criteria explained below. If all tests were successful a deployment was automatically initiated and available for review on the appropriate environment
 
@@ -40,11 +40,11 @@ We used three sources of feedback on our work code before it gets integrated int
  
  _Diagram comes here.
  
-1.Unit Tests
-2.Code Coverage
-3.Code Reviews
-3.Style Cop
-4.Static Code Analysis
+ 1.Unit Tests
+ 2.Code Coverage
+ 3.Code Reviews
+ 3.Style Cop
+ 4.Static Code Analysis
 
 Our goal is to allow developers to push their code in quickly and safely. 
 We think that one way to achieve this is to provide early feedback to developers, during the development process, 
@@ -80,7 +80,7 @@ _Jasmine_ is also used to provide a full featured testing harness and clean read
 Execution is orchestrated through a Grunt task.
 
 
-#Development Workflow & DEVOPS
+#7.Development Workflow & DEVOPS
 
 We used **BeanStalkApp** as our source code repository**(GIT*. The developers created new feature branch to develop the functionality for the feature. We made sure each new feature would reside in its own branch Here’s how the workflow looked like:
 
@@ -94,9 +94,9 @@ We used **TeamCity** to enable **Continuous Cntegration/Continuous Ceployment(CI
 
 We performed manual testing ( Functional testing, Responsive Testing, Section 508 testing ) on the staging environment.
 
-#Design: Wireframes/Personas/Mockups
+#8.Design: Wireframes/Personas/Mockups
 
-
+**Add links**
 Login Screen Mockup:
 https://marvelapp.com/2agi97a
 
@@ -104,7 +104,7 @@ Wireframes Link:
 Personas Link:
 Marvel Mockup Link:
 
-#Agile Process & Artifacts
+#9.Agile Process & Artifacts
 We developed our prototype using an iterative approach where feedback informed subsequent versions of the prototype. We had a Sprint ‘0’ followed by 2 Sprints.  We conducted sprint planning at the beginning of each sprint and conducted a prototype demonstration and retrospective at the end of each sprint.We executed this challenge with an agile approach, delivering working software every 1.5 hours, and building in an ability to respond to change.
 
 **Sprint Zero: 9:30 am - 10:00 am**
@@ -140,7 +140,7 @@ Before we began core development  we spent time in our Sprint 0: Create Story Ma
 
  Our  designer used industry best practices and recommended enhancements to the navigation, presentation, content and interaction represented in the wireframe. Through rounds of usability testing and user interviews, we continually updated the wireframe. We shared it with developers and used the Trello board. While the developers coded core functionality, team members focused on user design continued to talk with the product user and updated wireframes to match recommendations on look, layout and textual elements.
   
-#Digital Services Playbook
+#10.Digital Services Playbook
 
 We closely followed the Digital Services playbook guidelines as detailed in the link below:U.S. Digital Services Playbook (https://playbook.cio.gov)
 
