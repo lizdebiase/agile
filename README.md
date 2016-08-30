@@ -121,13 +121,23 @@ We performed manual testing ( Functional testing, Responsive Testing, Section 50
 
 #8.Design: Wireframes/Personas/Mockups
 
-**Add links**
-Login Screen Mockup:
-https://marvelapp.com/2agi97a
+We developed a design style guide to provide the team with a general reference point for our core design specifications. This includes:
 
-Wireframes Link:
-Personas Link:
-Marvel Mockup Link:
+- Screen Samples
+- Header, Footer and Navigation Patterns
+- Logo Treatment
+- Colors and Hex Values
+- Typography
+- Buttons and Controls
+- Graphs
+- Imagery
+- Iconography
+
+In addition to the design style guide, wireframes and a set of High Fidelity mockups were created as part of the desing
+
+You can see the Wireframes and Mockups here:
+[https://github.com/spinsys/agile/blob/master/style-guide.md]
+
 
 #9.Agile Process & Artifacts
 We developed our prototype using an iterative approach where feedback informed subsequent versions of the prototype. We had a Sprint ‘0’ followed by 2 Sprints.  We conducted sprint planning at the beginning of each sprint and conducted a prototype demonstration and retrospective at the end of each sprint.We executed this challenge with an agile approach, delivering working software every 1.5 hours, and building in an ability to respond to change.
