@@ -135,9 +135,17 @@ We developed a design style guide to provide the team with a general reference p
 
 In addition to the design style guide, wireframes and a set of High Fidelity mockups were created as part of the design:
 
-You can see the Wireframes and Mockups here:
+You can see style guide here:
 https://github.com/spinsys/agile/blob/master/style-guide.md
 
+You can see our wireframes here:
+https://github.com/spinsys/agile/blob/master/wireframes.md
+
+You can see our mockups here:
+https://github.com/spinsys/agile/blob/master/mockups.md
+
+You can see our Personas here:
+https://github.com/spinsys/agile/blob/master/personas.md
 
 #9.Agile Process & Artifacts
 We developed our prototype using an iterative approach where feedback informed subsequent versions of the prototype. We had a Sprint ‘0’ followed by 2 Sprints.  We conducted sprint planning at the beginning of each sprint and conducted a prototype demonstration and retrospective at the end of each sprint.We executed this challenge with an agile approach, delivering working software every 1.5 hours, and building in an ability to respond to change.
