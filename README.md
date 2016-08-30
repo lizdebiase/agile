@@ -150,7 +150,7 @@ Before we began core development  we spent time in our Sprint 0: Create Story Ma
  
  ##StoryMap
  
- [Story Map] (https://github.com/spinsys/agile/blob/master/images/Dhs_challenge.png)
+ ![Story Map] (https://github.com/spinsys/agile/blob/master/images/Dhs_challenge.png "Story Map")
  
  **Sprint 1**
 
