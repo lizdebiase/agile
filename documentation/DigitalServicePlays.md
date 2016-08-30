@@ -6,9 +6,13 @@
 <tr><td><b>Checklist</b></td> <td><b>What we did</b></td></tr>
 <tr><td>Early in the project, spend time with current and prospective users of the service</td> <td>As part of our Sprint zero and backlog grooming sessions, We worked with the product owner/prospective user to understand the requirements of the challenge and the vision of the MVP </td></tr>
 <tr><td>Use a range of qualitative and quantitative research methods to determine people’s goals, needs, and behaviors; be thoughtful about the time spent</td> <td> We used persona sketching to identify the different user types in the product and documented their needs https://github.com/spinsys/agile/blob/master/Personas.md </td></tr>
-<tr><td>Checklist</td> <td>What we did </td></tr>
-<tr><td>Checklist</td> <td>What we did </td></tr>
-<tr><td>Checklist</td> <td>What we did </td></tr>
+<tr><td>Test prototypes of solutions with real people, in the field if possible</td> <td>- During the sprint and at the end of the sprints we created wireframes , mockup designs to validate the requirements for the product
+    - Our Mockups: https://github.com/spinsys/agile/blob/master/mockups.md
+    - Our Wireframes:https://github.com/spinsys/agile/blob/master/wireframes.md </td></tr>
+<tr><td>Document the findings about user goals, needs, behaviors, and preferences</td> <td>We documented the user goals ,needs , behaviors and their preferences in the personas and documented them as user stories in our story mapping tool (stories onboard and trell0) </td></tr>
+<tr><td>Share findings with the team and agency leadership</td> <td>We documented all the user stories along with the acceptance criteria and a visual product backlog  was always available for the team in the information radiator (TV) </td></tr>
+<tr><td>Create a prioritized list of tasks the user is trying to accomplish, also known as “user stories”</td> <td>WDuring Sprint zero and as well as in Sprint Planning we prioritized the user stories in our Story mapping tool</td></tr>
+<tr><td>As the digital service is being built, regularly test it with potential users to ensure it meets people’s needs</td> <td>During the sprint and at the end of the sprints we received feedback from the product owner and the user and adjusted the deliverables so we deliver more value </td></tr>
 </table>
 
 **Play 2: Address the whole experience, from start to finish**
