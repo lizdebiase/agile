@@ -50,6 +50,9 @@ We used three sources of feedback on our work code before it gets integrated int
  
  3.**Code Reviews**
  
+ After pushing code changes to the published branch, a review must be requested.  Login to Beanstalk (https://spinsys.beanstalkapp.com/) and select the appropriate repository.  Click the Review tab, and click the "Request a Review" drop-down menu.  In the dialog, enter a description, check "Merge to master when approved," and assign the appropriate reviewer. 
+The reviewer will login to Beanstalk, from the Dashboard select the review and click the Code tab.  When satisfied with the changes, the reviewer can click Approve & Merge at the bottom of the page, which will merge the code into the Master branch, and trigger a build in TeamCity.
+ 
  3.**Style Cop**
  
  4.**Static Code Analysis**
