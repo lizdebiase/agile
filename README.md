@@ -3,13 +3,13 @@
 #Environments
 We used the following three environments that were provisioned using AWS.
 
-*Developer Integration Environment : is the test and integration environment for all of the developers. This is the environment where all developers validate the integration their code to others', by manual and automated testing.   [https://dhsdev.spinsys.com](https://dhsdev.spinsys.com/dhsweb "Dev Environment")
++ Developer Integration Environment : is the test and integration environment for all of the developers. This is the environment where all developers validate the integration their code to others', by manual and automated testing.   [https://dhsdev.spinsys.com](https://dhsdev.spinsys.com/dhsweb "Dev Environment")
 
-*UAT Environment : We used this environment to review the Sprint deliverables
++ UAT Environment : We used this environment to review the Sprint deliverables
  completed by the team and to collect feedback from the user. We also used this environment to conduct functional test, responsive test and section 508 tests
  [https://dhsuat.spinsys.com](https://dhsuat.spinsys.com/dhsweb "UAT Environment")
 
-*Prod Environment : We used this environment to release the final MVP after the end of two sprints.[https://dhsprod.spinsys.com](https://dhsprod.spinsys.com/dhsweb "Dev Environment")
++ Prod Environment : We used this environment to release the final MVP after the end of two sprints.[https://dhsprod.spinsys.com](https://dhsprod.spinsys.com/dhsweb "Dev Environment")
 ***
 #Application Architecture
 #Tool Stack
