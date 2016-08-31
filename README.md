@@ -26,7 +26,7 @@ https://github.com/spinsys/agile/blob/master/ResponsiveDesign.md
 <font color="red">This is some text!</font>
 
 # 3.Environments
-The following three environments were used, and provisioned using **AWS**.
+The following three environments were used, and provisioned using **FedRAMP certified AWS**.
 
 + **Developer Integration Environment:** This environment was used for testing and integration by all the developers. In this environment, all the code is validated using automated unit test cases and then integrated. [https://dhsdev.spinsys.com](https://dhsdev.spinsys.com/dhsweb "Dev Environment")
 
