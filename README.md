@@ -149,20 +149,20 @@ This included:
 
 In addition to the design style guide, wireframes and a set of High Fidelity mockups were created as part of the design. 
 
-You can read about our human centered design process here:
-
+You can read about our **human centered design process** here:
 https://github.com/spinsys/agile/blob/master/documentation/HumanCenterDesignProcess.md
 
-You can see our style guide here:
+You can see our **Style guide** here:
+
 https://github.com/spinsys/agile/blob/master/documentation/style-guide.md
 
-You can see our wireframes here:
+You can see our **Wireframes** here:
 https://github.com/spinsys/agile/blob/master/documentation/HumanCenteredDesign/wireframes.md
 
-You can see our mockups here:
+You can see our **Mockups** here:
 https://github.com/spinsys/agile/blob/master/documentation/HumanCenteredDesign/mockups.md
 
-You can see our Personas here:
+You can see our **Personas** here:
 https://github.com/spinsys/agile/blob/master/documentation/HumanCenteredDesign/Personas.md
 
 #9.Agile Process & Artifacts
