@@ -2,7 +2,6 @@
 The challenge is for the Offeror to develop a responsive web app that will be used to report and track staff performance recognition of individuals by their coworkers, including providing “kudos” to peers. This application may include entry of recognition by users, administration activities of users, and reporting.
 # 2.Our Solution: **Recognize**
 
-We named our solution **Recognize**.
 Our team utilized an “outside-in” product development approach to create our prototype. “Outside-in” focuses on the end user’s needs and experience to drive features, along with supporting application program interfaces (API). Focusing on the end user means that their needs are implemented pervasively throughout the application. This practice promotes user satisfaction and adoption through continuous interaction/feedback. Our team utilized the following approach for this prototype:
 
 - Conducted user research to understand needs. Our User Researcher conducted user interviews with the product owner, along with the identified personas to create the initial application concept.
@@ -16,22 +15,24 @@ We brought a highly-skilled, cross-functional team for this effort who have expe
 
 We closely followed the Digital Services playbook guidelines as detailed in the link below:U.S. Digital Services Playbook (https://playbook.cio.gov)
 
-The “outside-in” product development approach incorporates the application development aspects of the U.S. Digital Services Playbook[https://github.com/spinsys/agile/blob/master/documentation/DigitalServicePlays.md] .
+The “outside-in” product development approach incorporates the application development aspects of the U.S. Digital Services Playbook and you can read about it here:
+
+https://github.com/spinsys/agile/blob/master/documentation/DigitalServicePlays.md
 
 You can see the responsive web design screenshots here:
-https://github.com/spinsys/agile/blob/master/documentation/ResponsiveDesign.md
+https://github.com/spinsys/agile/blob/master/ResponsiveDesign.md
 
 
 # 3.Environments
-The following three environments were used, and provisioned using AWS.
+The following three environments were used, and provisioned using **AWS**.
 
-+ Developer Integration Environment: This environment was used for testing and integration by all the developers. In this environment, all the code is validated using automated unit test cases and then integrated. [https://dhsdev.spinsys.com](https://dhsdev.spinsys.com/dhsweb "Dev Environment")
++ **Developer Integration Environment:** This environment was used for testing and integration by all the developers. In this environment, all the code is validated using automated unit test cases and then integrated. [https://dhsdev.spinsys.com](https://dhsdev.spinsys.com/dhsweb "Dev Environment")
 
-+ UAT Environment: This environment was used to review the Sprint deliverables
- completed by the team, and to collect feedback from users. This environment was also used to conduct functional tests, responsive tests and section 508 tests.
++ **Test/UAT/Staging Environment:** This environment was used to review the Sprint deliverables
+ completed by the team, and to collect feedback from users. This environment was also used to conduct functional tests, responsive tests and _Section 508 tests_.
  [https://dhstest.spinsys.com](https://dhstest.spinsys.com/dhsweb "UAT Environment")
 
-+ Prod Environment: This environment was used to release the final MVP after the end of two sprints.[https://dhsprod.spinsys.com](https://dhsprod.spinsys.com/dhsweb "Dev Environment")
++ **Prod Environment:** This environment was used to release the final MVP after the end of the final sprint.[https://dhsprod.spinsys.com](https://dhsprod.spinsys.com/dhsweb "Prod Environment")
 
 # 4.Application Architecture
 The goal of the architecture was to present the data in a simple manner, which will allow us to easily manipulate and add data. The data was stored using SQL Server, and Entity Framework (EF) was used to rapidly create data models. ASP.NET Web API was also used to serve the JSON data.
