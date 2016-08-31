@@ -139,6 +139,7 @@ The pages we designed for this prototype had a nice title to let the users about
 <tr><td>Use deployment scripts to ensure configuration of production environment remains consistent and controllable</td> <td>We used Teamcity to perform this process </td></tr>
 </table>
 
+ 
  ##Play 12: Use data to drive decisions
  <table>
 <tr><td><b>Checklist</b></td> <td><b>What we did</b></td></tr>
