@@ -49,7 +49,7 @@ The pages we designed for this prototype had a nice title to let the users about
 <tr><td><b>Checklist</b></td> <td><b>What we did</b></td></tr>
 <tr><td>Ship a functioning “minimum viable product” (MVP) that solves a core user need as soon as possible, no longer than three months from the beginning of the project, using a “beta” or “test” period if needed</td> <td>We focused on the MVP and placed the remaining stories in the low priority. </td></tr>
 <tr><td>Run usability tests frequently to see how well the service works and identify improvements that should be made</td> <td>We incorporated usability tests  at each sprint review and often mid-sprint with the user </td></tr>
-<tr><td>Ensure the individuals building the service communicate closely using techniques such as launch meetings, war rooms, daily standups, and team chat tools</td> <td>Our team collaborated in a large meeting room and via Slack(channel #dhs-challenge. Our scrum meetings were facilitated in the room and we conducted sessions to colloboratively develop pieces of working software. </td></tr>
+<tr><td>Ensure the individuals building the service communicate closely using techniques such as launch meetings, war rooms, daily standups, and team chat tools</td> <td>Our team collaborated in a large meeting room and via Slack(channel #dhs-challenge. Our scrum meetings were facilitated in the room and we conducted sessions to develop pieces of working software. </td></tr>
 <tr><td>Keep delivery teams small and focused; limit organizational layers that separate these teams from the business owners</td> <td>Our team comprised of 9 people , One scrum master, One Product Manager, One Technical Architect, One DevOps Engineer, One FrontEnd Engineer, One Backend Engineer, One UX Designer, Two Test Engineers. They are cross disciplined and everyone worked together to deliver the MVP. </td></tr>
 <tr><td>Release features and improvements multiple times each month</td> <td>Not in scope for this challenge </td></tr>
 <tr><td>Create a prioritized list of features and bugs, also known as the “feature backlog” and “bug backlog”</td> <td>Our product manager worked with the product owner and prioritized user stories in the product backlog.  </td></tr>
@@ -78,7 +78,7 @@ The pages we designed for this prototype had a nice title to let the users about
 <tr><td><b>Checklist</b></td> <td><b>What we did</b></td></tr>
 <tr><td>A product owner has been identified</td> <td>Ramesh Ramaraj was identified as the product owner on our side. </td></tr>
 <tr><td>All stakeholders agree that the product owner has the authority to assign tasks and make decisions about features and technical implementation details</td> <td>Ramesh Ramaraj was assigned as leader and given authority, responsibility, and accountability for the quality of the prototype </td></tr>
-<tr><td>The product owner has a product management background with technical experience to assess alternatives and weigh tradeoffs</td> <td>Ramesh has over 15 years of technical and product management experience implementing and managing product development engagements.He is a Pragamatic Framework Certified Product Manager.  He also has engineering background and understands agile methodologies and he is PMI-ACP,CSM,CSPO certified.</td></tr>
+<tr><td>The product owner has a product management background with technical experience to assess alternatives and weigh tradeoffs</td> <td>Ramesh has over _10 years of technical and product management experience_ implementing and managing product development engagements.He is a **Pragmatic Framework Certified Product Manager**.  He also has engineering background and understands agile methodologies and he is also **PMI-ACP,CSM,CSPO certified**.</td></tr>
 <tr><td>The product owner has a work plan that includes budget estimates and identifies funding sources</td> <td>Not applicable for this challenge </td></tr>
 <tr><td>The product owner has a strong relationship with the contracting officer</td> <td>Not applicable for this challenge </td></tr>
 </table>
@@ -100,7 +100,7 @@ The pages we designed for this prototype had a nice title to let the users about
 <table>
 <tr><td><b>Checklist</b></td> <td><b>What we did</b></td></tr>
 <tr><td>Choose software frameworks that are commonly used by private-sector companies creating similar services</td> <td>We selected modern open source frameworks and tools. **You can check our tool stack here** </td></tr>
-<tr><td>Whenever possible, ensure that software can be deployed on a variety of commodity hardware types</td> <td>The UI was developed and tested to work on multipe devices using a responsive design. </td></tr>
+<tr><td>Whenever possible, ensure that software can be deployed on a variety of commodity hardware types</td> <td>The UI was developed and tested to work on multiple devices using a responsive design. </td></tr>
 <tr><td>Ensure that each project has clear, understandable instructions for setting up a local development environment, and that team members can be quickly added or removed from projects</td> <td>The deployment process is simplified with TeamCity</td></tr>
 <tr><td>Consider open source software solutions at every layer of the stack</td> <td>We used Open Source tools.  </td></tr>
 </table>
@@ -125,7 +125,7 @@ The pages we designed for this prototype had a nice title to let the users about
 <tr><td>Run tests automatically as part of the build process
 </td> <td>Team City automatically executes unit and integration tests as part of the build process </td></tr>
 <tr><td>Perform deployments automatically with deployment scripts, continuous delivery services, or similar techniques</td> <td>TeamCity automatically deploys successful builds </td></tr>
-<tr><td>Conduct load and performance tests at regular intervals, including before public launch</td> <td>In an actual production project, we would incorporpate performance/load testing in our continuous integration pipeline. We used Blazemeter to simulate Load and Performance testing on the Staging environment. </td></tr>
+<tr><td>Conduct load and performance tests at regular intervals, including before public launch</td> <td>In an actual production project, we would incorporate performance/load testing in our continuous integration pipeline.  </td></tr>
 </table>
 
 ##Play 11: Manage security and privacy through reusable process
