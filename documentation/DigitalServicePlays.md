@@ -175,7 +175,7 @@ The pages we designed for this prototype had a nice title to let the users about
 <tr><td><b>Checklist</b></td> <td><b>What we did</b></td></tr>
 <tr><td>Offer users a mechanism to report bugs and issues, and be responsive to these reports</td> <td> Not in scope for this challenge </td></tr>
 <tr><td>Provide datasets to the public, in their entirety, through bulk downloads and APIs (application programming interfaces)</td> <td>Data from our prototype is not proprietary. </td></tr>
-<tr><td>Ensure that data from the service is explicitly in the public domain, and that rights are waived globally via an international public domain dedication, such as the “Creative Commons Zero” waiver</td> <td>What we did </td></tr>
+<tr><td>Ensure that data from the service is explicitly in the public domain, and that rights are waived globally via an international public domain dedication, such as the “Creative Commons Zero” waiver</td> <td>Not applicable </td></tr>
 <tr><td>Catalog data in the agency’s enterprise data inventory and add any public datasets to the agency’s public data listing</td> <td>Data from our prototype is not proprietary. </td></tr>
 <tr><td>Ensure that we maintain the rights to all data developed by third parties in a manner that is releasable and reusable at no cost to the public</td> <td>Not in scope for this challenge </td></tr>
 <tr><td>Ensure that we maintain contractual rights to all custom software developed by third parties in a manner that is publishable and reusable at no cost</td> <td>Not in scope for this challenge</td></tr>
