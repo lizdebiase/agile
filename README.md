@@ -208,14 +208,14 @@ Primary Goal: Allow users to administer kudos, and give kudos to other user
 
  Our  designer used industry best practices and recommended enhancements to the navigation, presentation, content and interaction represented in the wireframe. Through rounds of usability testing and user interviews, we continually updated the wireframe. We shared it with developers and used the Trello board. While the developers coded core functionality, team members focused on user design continued to talk with the product user and updated wireframes to match recommendations on look, layout and textual elements.
  
- ##StoryMap
+ ##Our StoryMap
  ![Story Map] (https://github.com/spinsys/agile/blob/master/images/Dhs_challenge.png "Story Map")
  
-**Sprint 1**
+ ##Our Sprint 1
 
 <img src="https://github.com/spinsys/agile/blob/master/images/Sprint1.png" alt="Sprint1" >
 
-**Sprint 2**
+ ##Our Sprint 2
 
 <img src="https://github.com/spinsys/agile/blob/master/images/Sprint2.png" alt="Sprint2" >
 
