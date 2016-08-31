@@ -109,13 +109,13 @@ _Jasmine_ is also used to provide a full featured testing harness and clean read
 
 Execution is orchestrated through a Grunt task.
 
-## Section 508 Testing
+#7.Section 508 Testing
   
   Google Chrome Add-on "Wave" was used to perform the Section 508 Testing.This tool identified **16 Web standards** that were outlined by DHS Office of Accessible Systems & Technology (OAST) as standard for the Web.  Here is a snap shot of the report: 
   
   <img src="https://github.com/spinsys/agile/blob/master/images/508TestReport.png">
   
-#7.Development Workflow & DEVOPS
+#8.DEVOPS & Development Workflow & 
 
 We used **BeanStalkApp** as our source code repository**(GIT*. The developers created a new feature branch to develop the functionality for the feature. We've ensured that each new feature would reside in its own branch 
 
@@ -131,7 +131,7 @@ Here’s how the workflow looked like:
 
 We performed manual testing ( Functional testing, Responsive Testing, Section 508 testing ) on the staging environment.
 
-#8.Human Centered Design
+#9.Human Centered Design
 
 A design style guide was developed to provide the team with a general reference point for our core design specifications. 
 
@@ -165,7 +165,7 @@ https://github.com/spinsys/agile/blob/master/documentation/HumanCenteredDesign/m
 You can see our **Personas** here:
 https://github.com/spinsys/agile/blob/master/documentation/HumanCenteredDesign/Personas.md
 
-#9.Agile Process & Artifacts
+#10.Agile Process & Artifacts
 
 Our prototype was developed using an iterative approach, where feedback was done on subsequent versions of the prototype. We had a Sprint ‘0’ followed by 2 Sprints. We conducted sprint planning at the beginning of every sprint and conducted a prototype demonstration and retrospective at the end of each sprint. We executed this challenge with an agile approach, delivering a working software every 1.5 hours, and building it with the ability to respond to change.
 
@@ -268,11 +268,13 @@ Primary Goal: Allow users to administer kudos, and give kudos to other user
 | Feedback 2  | 
 
 ** Retrospectives
+<table>
+<tr><th>Positives</th><th>Delta</th></tr>
+<tr><td>Positive1</td><td>Delta1</td></tr>
+<tr><td>Positive2</td><td>Delta2</td></tr>
 
-| Postives      | Delta       |
-| ------------- |-------------| 
-| positive 1      | change 1 | 
-| positive 2     | change 2   | 
+</table>
+ 
 
 
 
