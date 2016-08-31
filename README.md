@@ -131,7 +131,7 @@ Here’s how the workflow looked like:
 
 We performed manual testing ( Functional testing, Responsive Testing, Section 508 testing ) on the staging environment.
 
-#8.Design: Wireframes/Personas/Mockups
+#8.Human Centered Design
 
 A design style guide was developed to provide the team with a general reference point for our core design specifications. 
 
@@ -147,19 +147,20 @@ This included:
 - Imagery
 - Iconography
 
-In addition to the design style guide, wireframes and a set of High Fidelity mockups were created as part of the design:
+In addition to the design style guide, wireframes and a set of High Fidelity mockups were created as part of the design. You can read about our human centered design process here:
+https://github.com/spinsys/agile/blob/master/documentation/HumanCenterDesignProcess.md
 
 You can see style guide here:
-https://github.com/spinsys/agile/blob/master/style-guide.md
+https://github.com/spinsys/agile/blob/master/documentation/style-guide.md
 
 You can see our wireframes here:
-https://github.com/spinsys/agile/blob/master/wireframes.md
+https://github.com/spinsys/agile/blob/master/documentation/HumanCenteredDesign/wireframes.md
 
 You can see our mockups here:
-https://github.com/spinsys/agile/blob/master/mockups.md
+https://github.com/spinsys/agile/blob/master/documentation/HumanCenteredDesign/mockups.md
 
 You can see our Personas here:
-https://github.com/spinsys/agile/blob/master/Personas.md
+https://github.com/spinsys/agile/blob/master/documentation/HumanCenteredDesign/Personas.md
 
 #9.Agile Process & Artifacts
 
