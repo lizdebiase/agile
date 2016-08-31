@@ -4,7 +4,7 @@ The challenge is for the Offeror to develop a responsive web app that will be us
 # 2.Our Solution: 
 
 We named our product **Recognize**.
-Our team utilized an “outside-in” product development approach to create our prototype. “Outside-in” focuses on the end user’s needs and experience to drive features, along with supporting application program interfaces (API). Focusing on the end user means that their needs are implemented pervasively throughout the application. This practice promotes user satisfaction and adoption through continuous interaction/feedback. Our team utilized the following approach for this prototype:
+Our team used an “outside-in” product development approach to create our prototype. This approach keeps the team focused on the end user’s needs and experience to drive features, along with supporting Application Program Interfaces (API). Focusing on the end user ensures that their needs are addressed pervasively throughout the application. This practice promotes user satisfaction and adoption through continuous interaction/feedback. Our team used the following approach for this prototype:
 
 - Conducted user research to understand needs. Our User Researcher conducted user interviews with the product owner, along with the identified personas to create the initial application concept.
 - Created initial UI ,documented as wireframes representing the personas associated with the system. Feedback was incorporated into an updated UI design
@@ -13,7 +13,7 @@ Our team utilized an “outside-in” product development approach to create our
 - Developed fully functioning prototype including back end API for data persistence as a series of “vertical slices” allowing testing throughout the effort.
 
 
-We brought a highly-skilled, cross-functional team for this effort who have experience in creating modern digital applications.We created our MVP following responsive design principles. We implemented our front-end with the Bootstrap framework to provide a completely responsive experience. We conducted usability tests to observe users on these platforms and used Google’s chrome mobile display test tool to emulate the experience of different platforms.
+We brought an established, highly-skilled, cross-functional team for this effort. They have experience creating modern digital applications. Drawing upon this experience, we created our MVP following responsive design principles. We implemented our front-end with the Bootstrap framework to provide a completely responsive experience. In order to observe users on these platforms, we conducted usability tests using Google’s chrome mobile display test tool to emulate the experience of different platforms.
 
 Here's a snap shot of our application: **REPLACE** 
 <img src="https://github.com/spinsys/agile/blob/master/images/mockups/dhs-login-v1.png">
@@ -60,7 +60,7 @@ We developed the prototype with **15** modern, open source technologies to imple
 
 # 6.Coding Practices & Automated Testing
 
-In order to maintain healthy code among the team, any team shared code was subjected to rigorous automated tests on various perspectives of quality, including code, security, performance, and functionality. Tests were executed automatically as developers submitted code to the repository. Feedback was made available to developers within minutes of the submission on a variety of criteria explained below. If all tests were successful a deployment was automatically initiated and available for review on the appropriate environment
+In order to maintain healthy code, shared code was subjected to rigorous automated tests on various perspectives of quality, including code, security, performance, and functionality. Tests were executed automatically as developers submitted code to the repository. Feedback was made available to developers within minutes of the submission on a variety of criteria explained below. If all tests were successful a deployment was automatically initiated and available for review on the appropriate environment
 
 We obtained feedback on our work code before it gets integrated into the codebase using: unit tests, code reviews and static code analysis.
 
