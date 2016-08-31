@@ -17,14 +17,22 @@ We used this information to identify target audiences and their goals/needs/beha
 </tr>
 <tr><td>Test prototypes of solutions with real people, in the field if possible</td> 
 <td>During the sprint and at the end of the sprints , Our UX/UI designer facilitated a walkthrough of an early wireframe prototype to get feedback.
-    - Our Mockups: https://github.com/spinsys/agile/blob/master/documentation/HumanCenteredDesign/mockups.md
-    - Our Wireframes:https://github.com/spinsys/agile/blob/master/documentation/HumanCenteredDesign/wireframes.md </td>
+
+Our Mockups: 
+https://github.com/spinsys/agile/blob/master/documentation/HumanCenteredDesign/mockups.md
+Our Wireframes:
+https://github.com/spinsys/agile/blob/master/documentation/HumanCenteredDesign/wireframes.md </td>
     </tr>
 <tr><td>Document the findings about user goals, needs, behaviors, and preferences</td> 
-<td>We documented the user goals ,needs , behaviors and their preferences in the personas and documented them as user stories in our story mapping tool (storiesonboard and trello) </td></tr>
-<tr><td>Share findings with the team and agency leadership</td> <td>We documented all the user stories along with the acceptance criteria and a visual product backlog  was always available for the team in the information radiator (TV). Feedback was captured and documented as a story card. </td></tr>
-<tr><td>Create a prioritized list of tasks the user is trying to accomplish, also known as “user stories”</td> <td>During Sprint zero and as well as in Sprint Planning we prioritized the user stories in our Story mapping tool</td></tr>
-<tr><td>As the digital service is being built, regularly test it with potential users to ensure it meets people’s needs</td> <td>Periodic user testing of wireframes, early functioning prototypes, and iteration increments was conducted. We used low and high fidelity prototypes iteratively, with user testing between iterations </td></tr>
+<td>We documented the user goals ,needs , behaviors and their preferences in the personas and documented 
+them as user stories in our story mapping tool (storiesonboard and trello) </td></tr>
+<tr><td>Share findings with the team and agency leadership</td> <td>We documented all the user stories along with the acceptance criteria and a visual product backlog 
+was always available for the team in the information radiator (TV). 
+Feedback was captured and documented as a story card. </td></tr>
+<tr><td>Create a prioritized list of tasks the user is trying to accomplish, also known as “user stories”</td> <td>During Sprint zero and as well as in Sprint Planning
+we prioritized the user stories in our Story mapping tool</td></tr>
+<tr><td>As the digital service is being built, regularly test it with potential users to ensure it meets people’s needs</td> <td>Periodic user testing of wireframes, early functioning prototypes, 
+and iteration increments was conducted. We used low and high fidelity prototypes iteratively, with user testing between iterations </td></tr>
 </table>
 
 ##Play 2: Address the whole experience, from start to finish
