@@ -214,63 +214,16 @@ Primary Goal: Allow users to administer kudos, and give kudos to other user
  
  **Sprint 1**
 
-**Goal* : Deliver this
-
-|User Stories Planned:    |
-| ------------- |
-| Story 1 (estimate points)| 
-| Story 2 (estimate points) | 
-
- **Total Points Planned**:
- 
-   **Velocity Achieved**
-   
-
-**Burndown Chart**
-
-
-|Feedback    |
-| ------------- |
-| Feedback 1| 
-| Feedback 2  | 
-
-** Retrospectives
-
-| Postives      | Delta       |
-| ------------- |-------------| 
-| positive 1      | change 1 | 
-| positive 2     | change 2   | 
+(https://github.com/spinsys/agile/blob/master/images/Sprint1.png)
 
 
   
 
 **Sprint 2**
 
-**Goal* : Deliver this
-
-|User Stories Planned:    |
-| ------------- |
-| Story 1 (estimate points)| 
-| Story 2 (estimate points) | 
-
- **Total Points Planned**:
- 
-   **Velocity Achieved**
-   
-
-**Burndown Chart**
+(https://github.com/spinsys/agile/blob/master/images/Sprint2.png)
 
 
-|Feedback    |
-| ------------- |
-| Feedback 1| 
-| Feedback 2  | 
-
-**Retrospectives
-<table>
-<tr><th>Positives</th><th>Delta</th></tr>
-<tr><td>Positive1</td><td>Delta1</td></tr>
-<tr><td>Positive2</td><td>Delta2</td></tr>
 
 </table>
  
