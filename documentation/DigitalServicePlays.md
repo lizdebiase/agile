@@ -139,17 +139,18 @@ The pages we designed for this prototype had a nice title to let the users about
 <tr><td>Use deployment scripts to ensure configuration of production environment remains consistent and controllable</td> <td>We used Teamcity to perform this process </td></tr>
 </table>
 
- ##Play 12: Use data to drive decisions
+ ## Play 12: Use data to drive decisions
+ 
  <table>
 <tr><td><b>Checklist</b></td> <td><b>What we did</b></td></tr>
-<tr><td>Monitor system-level resource utilization in real time</td> <td>What we did </td></tr>
-<tr><td>Monitor system performance in real-time (e.g. response time, latency, throughput, and error rates)</td> <td>What we did </td></tr>
-<tr><td>Ensure monitoring can measure median, 95th percentile, and 98th percentile performance</td> <td>What we did </td></tr>
-<tr><td>Create automated alerts based on this monitoring</td> <td>What we did </td></tr>
-<tr><td>Track concurrent users in real-time, and monitor user behaviors in the aggregate to determine how well the service meets user needs</td> <td>What we did </td></tr>
-<tr><td>Publish metrics internally</td> <td>What we did </td></tr>
-<tr><td>Publish metrics externally</td> <td>What we did </td></tr>
-<tr><td>Use an experimentation tool that supports multivariate testing in production</td> <td>What we did </td></tr>
+<tr><td>Monitor system-level resource utilization in real time</td> <td>We did not perform this step because of time constraints </td></tr>
+<tr><td>Monitor system performance in real-time (e.g. response time, latency, throughput, and error rates)</td> <td>We did not perform this step because of time constraints </td></tr>
+<tr><td>Ensure monitoring can measure median, 95th percentile, and 98th percentile performance</td> <td>We did not perform this step because of time constraints </td></tr>
+<tr><td>Create automated alerts based on this monitoring</td> <td>We did not perform this step because of time constraints </td></tr>
+<tr><td>Track concurrent users in real-time, and monitor user behaviors in the aggregate to determine how well the service meets user needs</td> <td>We did not perform this step because of time constraints </td></tr>
+<tr><td>Publish metrics internally</td> <td>We did not perform this step because of time constraints</td></tr>
+<tr><td>Publish metrics externally</td> <td>We did not perform this step because of time constraints </td></tr>
+<tr><td>Use an experimentation tool that supports multivariate testing in production</td> <td>We did not perform this step because of time constraints </td></tr>
 </table>
 
 ##Play 13: Default to open 
