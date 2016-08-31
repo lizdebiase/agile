@@ -15,6 +15,9 @@ Our team utilized an “outside-in” product development approach to create our
 
 We brought a highly-skilled, cross-functional team for this effort who have experience in creating modern digital applications.We created our MVP following responsive design principles. We implemented our front-end with the Bootstrap framework to provide a completely responsive experience. We conducted usability tests to observe users on these platforms and used Google’s chrome mobile display test tool to emulate the experience of different platforms.
 
+Here's a snap shot of our application:
+<img src="https://github.com/spinsys/agile/blob/master/images/mockups/dhs-login-v1.png">
+
 We closely followed the Digital Services playbook guidelines as detailed in the link below: **U.S. Digital Services Playbook** (https://playbook.cio.gov)
 
 The “outside-in” product development approach incorporates the application development aspects of the U.S. Digital Services Playbook and you can read about it here:
@@ -23,7 +26,7 @@ https://github.com/spinsys/agile/blob/master/documentation/DigitalServicePlays.m
 
 You can see the responsive web design screenshots here:
 https://github.com/spinsys/agile/blob/master/ResponsiveDesign.md
-<font color="red">This is some text!</font>
+
 
 # 3.Environments
 The following three environments were used, and provisioned using **FedRAMP certified AWS**.
