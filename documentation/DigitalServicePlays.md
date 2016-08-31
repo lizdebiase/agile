@@ -19,7 +19,7 @@ https://playbook.cio.gov/
 <tr><td>As the digital service is being built, regularly test it with potential users to ensure it meets people’s needs</td> <td>Periodic user testing of wireframes, early functioning prototypes, and iteration increments was conducted. We used low and high fidelity prototypes iteratively, with user testing between iterations </td></tr>
 </table>
 
-##Play 2: Address the whole experience, from start to finish**
+##Play 2: Address the whole experience, from start to finish
 <table>
 <tr><td><b>Checklist</b></td> <td><b>What we did</b></td></tr>
 <tr><td>Understand the different points at which people will interact with the service – both online and in person</td> <td>We received input from our user regarding how user interact with the application </td></tr>
@@ -30,7 +30,7 @@ https://playbook.cio.gov/
 
 </table>
 
-##Play 3: Make it simple and intuitive**
+##Play 3: Make it simple and intuitive
 <table>
 <tr><td><b>Checklist</b></td> <td><b>What we did</b></td></tr>
 <tr><td>Use a simple and flexible design style guide for the service. Use the U.S. Web Design Standards as a default</td> <td>We implemented a simple, responsive application using bootstrap, html5, angular js, sass and css.  The style and layouts evolved through the iterations and feedback loops with user.</td></tr>
@@ -44,7 +44,7 @@ The pages we designed for this prototype had a nice title to let the users about
 <tr><td>Use language and design consistently throughout the service, including online and offline touch points</td> <td>We executed a quick consistency check. </td></tr>
 </table>
 
-##Play 4. Build the service using agile and Iterative practices**
+##Play 4. Build the service using agile and Iterative practices
 <table>
 <tr><td><b>Checklist</b></td> <td><b>What we did</b></td></tr>
 <tr><td>Ship a functioning “minimum viable product” (MVP) that solves a core user need as soon as possible, no longer than three months from the beginning of the project, using a “beta” or “test” period if needed</td> <td>We focused on the MVP and placed the remaining stories in the low priority. </td></tr>
@@ -59,7 +59,7 @@ The pages we designed for this prototype had a nice title to let the users about
 
 </table>
 
-##Play 5. Structure budget and contracts to support delivery**
+##Play 5. Structure budget and contracts to support delivery
 <table>
 <tr><td><b>Checklist</b></td> <td><b>What we did</b></td></tr>
 <tr><td>Budget includes research, discovery, and prototyping activities</td> <td>Not Applicable for this challenge </td></tr>
@@ -73,7 +73,7 @@ The pages we designed for this prototype had a nice title to let the users about
 <tr><td>Contract includes a transition of services period and transition-out plan</td> <td>Not Applicable for this challenge </td></tr>
 </table>
 
-##Play 6. Assign on leader and hold that person accountable**
+##Play 6. Assign on leader and hold that person accountable
 <table>
 <tr><td><b>Checklist</b></td> <td><b>What we did</b></td></tr>
 <tr><td>A product owner has been identified</td> <td>Ramesh Ramaraj was identified as the product owner on our side. </td></tr>
@@ -83,7 +83,7 @@ The pages we designed for this prototype had a nice title to let the users about
 <tr><td>The product owner has a strong relationship with the contracting officer</td> <td>Not applicable for this challenge </td></tr>
 </table>
 
-##Play 7. Bring in experienced Teams**
+##Play 7. Bring in experienced Teams
 <table>
 <tr><td><b>Checklist</b></td> <td><b>What we did</b></td></tr>
 <tr><td>Member(s) of the team have experience building popular, high-traffic digital services</td> <td>Most of our team members have been implementing high-traffic and mission-critical digital services </td></tr>
@@ -96,7 +96,7 @@ The pages we designed for this prototype had a nice title to let the users about
 <tr><td>The appropriate privacy, civil liberties, and/or legal advisor for the department or agency is a partner</td> <td>Not Applicable for this challenge </td></tr>
 </table>
 
-##Play 8. Choose a modern technology stack**
+##Play 8. Choose a modern technology stack
 <table>
 <tr><td><b>Checklist</b></td> <td><b>What we did</b></td></tr>
 <tr><td>Choose software frameworks that are commonly used by private-sector companies creating similar services</td> <td>We selected modern open source frameworks and tools. **You can check our tool stack here** </td></tr>
@@ -105,7 +105,7 @@ The pages we designed for this prototype had a nice title to let the users about
 <tr><td>Consider open source software solutions at every layer of the stack</td> <td>We used Open Source tools.  </td></tr>
 </table>
 
-##Play 9. Deploy in a flexible hosting environment**
+##Play 9. Deploy in a flexible hosting environment
 <table>
 <tr><td><b>Checklist</b></td> <td><b>What we did</b></td></tr>
 <tr><td>Resources are provisioned on demand</td> <td>Resources are provisioned through AWS </td></tr>
@@ -117,7 +117,7 @@ The pages we designed for this prototype had a nice title to let the users about
 <tr><td>Application is hosted on commodity hardware</td> <td>AWS utilizes an underlying commodity hardware based infrastructure.  </td></tr>
 </table>
 
-##Play 10.Automate testing and deployments**
+##Play 10.Automate testing and deployments
 <table>
 <tr><td><b>Checklist</b></td> <td><b>What we did</b></td></tr>
 <tr><td>Create automated tests that verify all user-facing functionality</td> <td>We used Test Driven Development (TDD) techniques that include unit tests in the automated build process </td></tr>
@@ -128,7 +128,7 @@ The pages we designed for this prototype had a nice title to let the users about
 <tr><td>Conduct load and performance tests at regular intervals, including before public launch</td> <td>In an actual production project, we would incorporpate performance/load testing in our continuous integration pipeline. We used Blazemeter to simulate Load and Performance testing on the Staging environment. </td></tr>
 </table>
 
-##Play 11: Manage security and privacy through reusable processe**
+##Play 11: Manage security and privacy through reusable process
  <table>
 <tr><td><b>Checklist</b></td> <td><b>What we did</b></td></tr>
 <tr><td>Contact the appropriate privacy or legal officer of the department or agency to determine whether a System of Records Notice (SORN), Privacy Impact Assessment, or other review should be conducted</td> <td>Not in scope for this challenge </td></tr>
@@ -139,8 +139,7 @@ The pages we designed for this prototype had a nice title to let the users about
 <tr><td>Use deployment scripts to ensure configuration of production environment remains consistent and controllable</td> <td>We used Teamcity to perform this process </td></tr>
 </table>
 
- ## Play 12: Use data to drive decisions
- 
+ ##Play 12: Use data to drive decisions
  <table>
 <tr><td><b>Checklist</b></td> <td><b>What we did</b></td></tr>
 <tr><td>Monitor system-level resource utilization in real time</td> <td>We did not perform this step because of time constraints </td></tr>
