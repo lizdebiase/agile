@@ -25,7 +25,7 @@ The “outside-in” product development approach incorporates the application d
 https://github.com/spinsys/agile/blob/master/documentation/DigitalServicePlays.md
 
 You can see the responsive web design screenshots here:
-https://github.com/spinsys/agile/blob/master/ResponsiveDesign.md
+https://github.com/spinsys/agile/blob/master/documentation/ResponsiveDesign.md
 
 
 # 3.Environments
