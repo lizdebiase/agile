@@ -181,9 +181,9 @@ The following steps were executed:
 Primary Goal: Allow users to administer kudos, and give kudos to other user
 
 + **Step 2:** Define the process/stages in the product: We defined what the main user flow in our product looks like, and defined particular stages on this flow are.
-+ 
+
 + **Step 3**: Create list of features for each stage: We looked at each stage of the process and we defined the list of features which should be part of this stage. In this step we try to boost our own creativity and defined as many features as we can but at the same time we made sure we focused on creating  an unprioritized bucket of ideas to help the customer solve her/his problem. As a result we generated the features and placed it under the stage names.
-+ 
+
 + **Step 4:**  Prioritize the features : We prioritized each feature in each stage according to a few factors:
 
     - Question 1: How important is this feature for finishing the process?
@@ -193,13 +193,13 @@ Primary Goal: Allow users to administer kudos, and give kudos to other user
     - Question 5: How risky is this feature?
 
     Based on these questions we rearranged the features on our map by moving the ones with the high value/priority to the top, and the ones with lowervalue/priority to the bottom. The big story cards on the top of the map are the essential capabilities the system needs to have and it is the backbone of the system. We considered all the story cards hanging down from the backbone as **Ribs**. We placed the story cards high to indicate they’re absolutely necessary, lower to indicate they’re less necessary. All the stories placed high on the story map describe the smallest possible system you could build that would give you end to end functionality which is the **Walking Skeleton.
- + **Step 5:** Define the MVP and Sprints
++ **Step 5:** Define the MVP and Sprints
   The story map showed us the big picture of our product and helped us to focus on the overall vision and purpose behind the product and not solely on particular features we need to deliver. When we selected the user stories for the releases/sprints, we always try to go right on the story map and not down and address the most basic needs of our users first so we can deliver our MVP quicker as well as learn more from them.
 
   When we build the product story by story, we chose them from the story map left to right, and top to bottom. We slowly moved across the backbone, and down through the priorities of each rib. We were slowly building up the system not a feature at a time, but rather by building up all major features a little at a time.
   
-  + **Step 6**: Rapid Prototyping/Sketching
-  +In order to validate the product and the user stories we created quick wireframes that shows the placement of elements in a user interface and demonstrate the intended layout and functionality of a solution. We try to  answer the following questions :
++ **Step 6**: Rapid Prototyping/Sketching
+  In order to validate the product and the user stories we created quick wireframes that shows the placement of elements in a user interface and demonstrate the intended layout and functionality of a solution. We try to  answer the following questions :
 
                 - What elements will be displayed in the UI?
                 - How will the elements be organized?
@@ -209,14 +209,11 @@ Primary Goal: Allow users to administer kudos, and give kudos to other user
  Our  designer used industry best practices and recommended enhancements to the navigation, presentation, content and interaction represented in the wireframe. Through rounds of usability testing and user interviews, we continually updated the wireframe. We shared it with developers and used the Trello board. While the developers coded core functionality, team members focused on user design continued to talk with the product user and updated wireframes to match recommendations on look, layout and textual elements.
  
  ##StoryMap
- 
  ![Story Map] (https://github.com/spinsys/agile/blob/master/images/Dhs_challenge.png "Story Map")
  
- **Sprint 1**
+**Sprint 1**
 
 <img src="https://github.com/spinsys/agile/blob/master/images/Sprint1.png" alt="Sprint1" >
-
-  
 
 **Sprint 2**
 
