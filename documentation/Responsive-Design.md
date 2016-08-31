@@ -21,3 +21,5 @@ to the user's screen so that they can quickly and easily access the displayed da
 ###Phone
 + 1920 x 1080 - 5.5" display
 + 1920 x 1080 - 5" display
+
+###Screenshots
