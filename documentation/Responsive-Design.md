@@ -23,3 +23,4 @@ to the user's screen so that they can quickly and easily access the displayed da
 + 1920 x 1080 - 5" display
 
 ###Screenshots
+<img src="https://github.com/spinsys/agile/blob/master/images/ResponsiveDesignSample.png" >
