@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite name="DHS_Testing">
-  <test name="UserRegistration">
+<suite name="Suite">
+  <test name="Test">
     <classes>
-      <class name="UserRegistration.Config"/>
-      <class name="UserRegistration.UserRegistrationNG"/>
-      <class name="UserRegistration.UserLogin_NG"/>
-      <class name="UserRegistration.StarRating_NG"/>
+      <class name="ChallengeExcercise.UserRegistration"/>
+      <class name="ChallengeExcercise.UserLogin"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
