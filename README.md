@@ -13,7 +13,7 @@ Our team utilized an “outside-in” product development approach to create our
 
 We brought a highly-skilled, cross-functional team for this effort who have experience in creating modern digital applications.We created our MVP following responsive design principles. We implemented our front-end with the Bootstrap framework to provide a completely responsive experience. We conducted usability tests to observe users on these platforms and used Google’s chrome mobile display test tool to emulate the experience of different platforms.
 
-We closely followed the Digital Services playbook guidelines as detailed in the link below:U.S. Digital Services Playbook (https://playbook.cio.gov)
+We closely followed the Digital Services playbook guidelines as detailed in the link below: **U.S. Digital Services Playbook** (https://playbook.cio.gov)
 
 The “outside-in” product development approach incorporates the application development aspects of the U.S. Digital Services Playbook and you can read about it here:
 
@@ -35,19 +35,19 @@ The following three environments were used, and provisioned using **AWS**.
 + **Prod Environment:** This environment was used to release the final MVP after the end of the final sprint.[https://dhsprod.spinsys.com](https://dhsprod.spinsys.com/dhsweb "Prod Environment")
 
 # 4.Application Architecture
-The goal of the architecture was to present the data in a simple manner, which will allow us to easily manipulate and add data. The data was stored using SQL Server, and Entity Framework (EF) was used to rapidly create data models. ASP.NET Web API was also used to serve the JSON data.
+The goal of the architecture was to present the data in a simple manner, which will allow us to easily manipulate and add data. The data was stored using **SQL Server**, and **Entity Framework (EF)** was used to rapidly create data models. ASP.NET Web API was also used to serve the JSON data.
 
-+ **Front End Layer:** Angular JS one of the most powerful and adaptive Javascript framework was used along with Bootstrap, a popular CSS responsive front-end framework to build dynamic and responsive UIs. These two frameworks enabled the development team to build a modular and easily testable application.
++ **Front End Layer:** **Angular JS**, one of the most powerful and adaptive Javascript framework was used along with **Bootstrap**, a popular CSS responsive front-end framework to build dynamic and responsive UIs. These two frameworks enabled the development team to build a modular and easily testable application.
 
 + **ASP.NET RESTFUL Web API Backend Layer:** We used the **ASP.NET Web API** , one of Microsoft's _open source technology_ to build a powerful application by exposing the CRUD operations on the data. We used The Repository Pattern to create an abstract layer by isolating business objects from Data Access Layer. With this, we maximize the amount of code for automated unit testing and isolated data access from data store. This pattern allowed us to centralize data access, code readability and maintainability and have flexible architecture. We built the API using REST architecture principles.
 
 + **Entity Framework Layer:** This is an object-relational mapping framework(ORM) that enabled our team to work with relational data using domain-specific objects, and provided a conceptual model of the domain entities. It allowed to translate the C# models used by Web API into database entities.
 
-A high level architecture of the application:
+A high level architecture of the application is shown below:
 <img src="https://github.com/spinsys/agile/blob/master/images/AppArchitecture.png" alt="architecture" >
 
 # 5.Tool Stack
-We developed the prototype with **14** modern, open source technologies most appropriate to implement the prototype.
+We developed the prototype with **15** modern, open source technologies most appropriate to implement the prototype.
 
 ![stack] (https://github.com/spinsys/agile/blob/master/images/application-stack-v2.png "stack")
 
