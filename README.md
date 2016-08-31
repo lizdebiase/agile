@@ -113,6 +113,8 @@ Execution is orchestrated through a Grunt task.
   
   Google Chrome Add-on "Wave" was used to perform the Section 508 Testing.This tool identified **16 Web standards** that were outlined by DHS Office of Accessible Systems & Technology (OAST) as standard for the Web.  Here is a snap shot of the report: 
   
+  We have documented the results for 508 testing here: https://github.com/spinsys/agile/tree/master/508Tests
+  
   <img src="https://github.com/spinsys/agile/blob/master/images/508TestReport.png">
   
 #8.DEVOPS & Development Workflow & 
