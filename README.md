@@ -57,13 +57,11 @@ We developed the prototype with **15** modern, open source technologies to imple
 
 In order to maintain healthy code among the team, any team shared code was subjected to rigorous automated tests on various perspectives of quality, including code, security, performance, and functionality. Tests were executed automatically as developers submitted code to the repository. Feedback was made available to developers within minutes of the submission on a variety of criteria explained below. If all tests were successful a deployment was automatically initiated and available for review on the appropriate environment
 
-We used three sources of feedback on our work code before it gets integrated into the codebase: unit tests, code reviews and static code analysis.
+We obtained feedback on our work code before it gets integrated into the codebase using: unit tests, code reviews and static code analysis.
  
  _Diagram comes here.
  
- 1.**Unit Tests**
- 
- 2.**Code Coverage**
+ 1.**Unit Tests** and **Code Coverage**
  
 In order to determine what proportion of our project's code is actually being tested by our unit tests. JetBrains DotCover running on .NET Framework 3.5 or higher, is a code coverage tool provided by the our CI/CD tool Teamcity was used. Once code is checked into the VCS(GIT), Teamcity triggered a new build. Unit tests created by code will be run by the Teamcity before completing the code build. Once it was completed, Teamcity provided us with a detailed report of test results and code coverage. 
  
