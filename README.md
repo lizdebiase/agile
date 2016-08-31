@@ -121,9 +121,11 @@ Execution is orchestrated through a Grunt task.
   
   <img src="https://github.com/spinsys/agile/blob/master/images/508TestReport.png">
   
-#8.DEVOPS & Development Workflow & 
+#8.Continuous Integration(CI) and Continuous Deployment (CD) 
 
-We used **BeanStalkApp** as our source code repository**(GIT*. The developers created a new feature branch to develop the functionality for the feature. We've ensured that each new feature would reside in its own branch 
+Continuous integration is a critical supporting tool for agile development. Rapid build and deploy is foundational to sprint velocity and efficiency.
+
+We used **BeanStalkApp** as our source code repository**(GIT)**. The developers created a new feature branch to develop the functionality for the feature. We've ensured that each new feature would reside in its own branch 
 
 Here’s how the workflow looked like:
 
@@ -135,7 +137,8 @@ Here’s how the workflow looked like:
 
 **TeamCity** was used to enable **Continuous Integration/Continuous Ceployment(CI/CD)**. As soon as the feature branch is merged into the master branch, **TeamCity** initiated automated build and deployed the code to our integration environment. As part of automated build process, we executed unit tests, and ran code coverage analysis. Unit tests were adjusted for  more code coverage if needed. Once all the automated tests ran successfully, our architect deployed the same tested code to the staging environment. The team was always notified in the **Slack** channel **#dhs-build** about the automated builds and their results.
 
-We performed manual testing ( Functional testing, Responsive Testing, Section 508 testing ) on the staging environment.
+You can read about our Teamcity builds here: https://github.com/spinsys/agile/blob/master/documentation/CICD.md
+
 
 #9.Human Centered Design
 
