@@ -176,7 +176,10 @@ https://github.com/spinsys/agile/blob/master/documentation/HumanCenteredDesign/P
 
 #10.Agile Process & Artifacts
 
-Our prototype was developed using an iterative approach, where feedback was done on subsequent versions of the prototype. We had a Sprint ‘0’ followed by 2 Sprints. **Definition of Done** is crucial to a highly functioning team. As a team we defined our **Definition of Done** here:
+Our prototype was developed using an iterative approach, where feedback was done on subsequent versions of the prototype. We had a Sprint ‘0’ followed by 2 Sprints. 
+
+**Definition of Done** is crucial to a highly functioning team. 
+As a team we defined our **Definition of Done** here:
 https://github.com/spinsys/agile/blob/master/documentation/DefinitionOfDone.md
 
 We conducted sprint planning at the beginning of every sprint and conducted a prototype demonstration and retrospective at the end of each sprint. We executed this challenge with an agile approach, delivering a working software every 1.5 hours, and building it with the ability to respond to change.
