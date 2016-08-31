@@ -127,7 +127,7 @@ Continuous integration is a critical supporting tool for agile development. Rapi
 
 We used **BeanStalkApp** as our source code repository**(GIT)**. The developers created a new feature branch to develop the functionality for the feature. We've ensured that each new feature would reside in its own branch 
 
-Here’s how the workflow looked like:
+Here’s how the development workflow looked like:
 
 1. Developers cloned the feature branch from the master branch to work on the feature he/she was developing.
 2. Developers used the static code analyzer embedded in their local development environment to produce quality code.
