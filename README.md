@@ -28,6 +28,7 @@ https://github.com/spinsys/agile/blob/master/documentation/DigitalServicePlays.m
 You can see the responsive web design screenshots here:
 https://github.com/spinsys/agile/blob/master/documentation/ResponsiveDesign.md
 
+https://github.com/spinsys/agile/blob/master/documentation/Responsive-Design.md
 
 # 3.Environments
 The following three environments were used, and provisioned using **FedRAMP certified AWS**.
