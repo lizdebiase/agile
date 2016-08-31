@@ -4,10 +4,10 @@ The challenge is for the Offeror to develop a responsive web app that will be us
 
 Our team utilized an “outside-in” product development approach to create our prototype. “Outside-in” focuses on the end user’s needs and experience to drive features, along with supporting application program interfaces (API). Focusing on the end user means that their needs are implemented pervasively throughout the application. This practice promotes user satisfaction and adoption through continuous interaction/feedback. Our team utilized the following approach for this prototype:
 
-- Conducted user research to understand needs and trends within related industry. Our User Researcher conducted user interviews with the product owner, along with the identified personas to create the initial application concept.
-- Created initial UI documented as wireframes representing the personas associated with the system. Feedback was incorporated into an updated UI design
+- Conducted user research to understand needs. Our User Researcher conducted user interviews with the product owner, along with the identified personas to create the initial application concept.
+- Created initial UI ,documented as wireframes representing the personas associated with the system. Feedback was incorporated into an updated UI design
 - Identified user stories to form initial product backlog.
-- Developed fully interactive responsive prototype  application. The initial prototype was presented to the representative user base from the user research phase. The findings from users interacting with the application, such as usability improvements, were incorporated into the final design.
+- Developed fully interactive prototype application. The findings from the users interacting with the application, such as usability improvements, were incorporated into the final design.
 - Developed fully functioning prototype including back end API for data persistence as a series of “vertical slices” allowing testing throughout the effort.
 
 
