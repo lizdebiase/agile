@@ -147,10 +147,13 @@ This included:
 - Imagery
 - Iconography
 
-In addition to the design style guide, wireframes and a set of High Fidelity mockups were created as part of the design. You can read about our human centered design process here:
+In addition to the design style guide, wireframes and a set of High Fidelity mockups were created as part of the design. 
+
+You can read about our human centered design process here:
+
 https://github.com/spinsys/agile/blob/master/documentation/HumanCenterDesignProcess.md
 
-You can see style guide here:
+You can see our style guide here:
 https://github.com/spinsys/agile/blob/master/documentation/style-guide.md
 
 You can see our wireframes here:
