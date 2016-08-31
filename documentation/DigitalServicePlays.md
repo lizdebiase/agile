@@ -6,7 +6,7 @@ https://playbook.cio.gov/
 
 ##Play 1: Understand What People Need
 
-<table>
+<table width="50%">
 <tr><td><b>Checklist</b></td> <td><b>What we did</b></td></tr>
 <tr><td>Early in the project, spend time with current and prospective users of the service</td> <td>
 As part of our Sprint zero and backlog grooming sessions, We worked with the product owner/prospective user to understand the requirements of the challenge 
