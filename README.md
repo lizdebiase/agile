@@ -21,7 +21,7 @@ https://github.com/spinsys/agile/blob/master/documentation/DigitalServicePlays.m
 
 You can see the responsive web design screenshots here:
 https://github.com/spinsys/agile/blob/master/ResponsiveDesign.md
-
+<font color="red">This is some text!</font>
 
 # 3.Environments
 The following three environments were used, and provisioned using **AWS**.
