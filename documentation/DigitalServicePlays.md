@@ -91,7 +91,7 @@ The pages we designed for this prototype had a nice title to let the users about
 <tr><td>Member(s) of the team have experience using automated testing frameworks</td> <td>Our team members have implemented many projects using automated testing frameworks </td></tr>
 <tr><td>Member(s) of the team have experience with modern development and operations (DevOps) techniques like continuous integration and continuous deployment</td> <td>Our team members have implemented many projects using modern development and DevOps techniques including continuous integration and continuous deployment. </td></tr>
 <tr><td>Member(s) of the team have experience securing digital services</td> <td>Our team members have implemented many projects implementing modern security frameworks, such as SAML and OAuth. </td></tr>
-<tr><td>A Federal contracting officer is on the internal team if a third party will be used for development work</td> <td>What we did </td></tr>
+<tr><td>A Federal contracting officer is on the internal team if a third party will be used for development work</td> <td>Not applicable for this challenge </td></tr>
 <tr><td>A Federal budget officer is on the internal team or is a partner</td> <td> Not Applicable for this challenge</td></tr>
 <tr><td>The appropriate privacy, civil liberties, and/or legal advisor for the department or agency is a partner</td> <td>Not Applicable for this challenge </td></tr>
 </table>
