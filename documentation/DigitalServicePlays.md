@@ -8,7 +8,9 @@ https://playbook.cio.gov/
 
 <table>
 <tr><td><b>Checklist</b></td> <td><b>What we did</b></td></tr>
-<tr><td>Early in the project, spend time with current and prospective users of the service</td> <td>As part of our Sprint zero and backlog grooming sessions, We worked with the product owner/prospective user to understand the requirements of the challenge and the vision of the **MVP** </td></tr>
+<tr><td>Early in the project, spend time with current and prospective users of the service</td> <td>
+As part of our Sprint zero and backlog grooming sessions, We worked with the product owner/prospective user to understand the requirements of the challenge 
+and the vision of the **MVP** </td></tr>
 <tr><td>Use a range of qualitative and quantitative research methods to determine people’s goals, needs, and behaviors; be thoughtful about the time spent</td> <td>Our UX/UI designer researcher met with the product owner /user and elicited information about their preferences, habits, expectations for easy-to-use systems, and their preconceptions about the processes related to employee recognition. We used this information to identify target audiences and their goals/needs/behaviors. We used persona sketching to identify the different user types in the product and documented their needs https://github.com/spinsys/agile/blob/master/documentation/HumanCenteredDesign/Personas.md</td></tr>
 <tr><td>Test prototypes of solutions with real people, in the field if possible</td> <td>- During the sprint and at the end of the sprints , Our UX/UI designer facilitated a walkthrough of an early wireframe prototype to get feedback.
     - Our Mockups: https://github.com/spinsys/agile/blob/master/documentation/HumanCenteredDesign/mockups.md
