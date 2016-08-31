@@ -49,7 +49,7 @@ A high level architecture of the application is shown below:
 <img src="https://github.com/spinsys/agile/blob/master/images/AppArchitecture.png" alt="architecture" >
 
 # 5.Tool Stack
-We developed the prototype with **15** modern, open source technologies most appropriate to implement the prototype.
+We developed the prototype with **15** modern, open source technologies to implement the prototype.
 
 ![stack] (https://github.com/spinsys/agile/blob/master/images/application-stack-v2.png "stack")
 
