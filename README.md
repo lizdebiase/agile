@@ -161,19 +161,18 @@ https://github.com/spinsys/agile/blob/master/documentation/HumanCenteredDesign/P
 
 #10.Agile Process & Artifacts
 
-Our prototype was developed using an iterative approach, where feedback was done on subsequent versions of the prototype. We had a Sprint ‘0’ followed by 2 Sprints. 
-
 **Definition of Done** is crucial to a highly functioning team. 
 As a team we defined our **Definition of Done** here:
 https://github.com/spinsys/agile/blob/master/documentation/DefinitionOfDone.md
 
+Our prototype was developed using an iterative approach, where feedback was done on subsequent versions of the prototype. We had a Sprint ‘0’ followed by 2 Sprints. 
 We conducted sprint planning at the beginning of every sprint and conducted a prototype demonstration and retrospective at the end of each sprint. We executed this challenge with an agile approach, delivering a working software every 1.5 hours, and building it with the ability to respond to change.
 
 **Sprint Zero: 9:30 am - 10:00 am**
 
-7ps: Prior Planning and Preparation Prevents Pretty Poor Performance
+We strongly believed in 7ps: **Prior Planning and Preparation Prevents Pretty Poor Performance**
 
-Before we began core development, we spent some of our time in Sprint 0 by creating Story Maps. We captured the product backlog user stories using a tool called Trello and story mapping tool called StoriesOnboard. This replaces the traditional one dimensional list of features ordered according to business value, with a two dimensional map which focuses on user activities and the overall vision of the product. It allowed the team to see the big picture in the backlog and promoted silent brainstorming. 
+Before we began core development, we spent some of our time in Sprint 0 by creating Story Maps. We captured the product backlog user stories using a tool called **Trello** and story mapping tool called **StoriesOnboard**. This replaces the traditional one dimensional list of features ordered according to business value, with a two dimensional map which focuses on user activities and the overall vision of the product. It allowed the team to see the big picture in the backlog and promoted silent brainstorming. 
 
 The following steps were executed:
 
@@ -185,7 +184,7 @@ Primary Goal: Allow users to administer kudos, and give kudos to other user
 + 
 + **Step 3**: Create list of features for each stage: We looked at each stage of the process and we defined the list of features which should be part of this stage. In this step we try to boost our own creativity and defined as many features as we can but at the same time we made sure we focused on creating  an unprioritized bucket of ideas to help the customer solve her/his problem. As a result we generated the features and placed it under the stage names.
 + 
-+ **Step 4:**  Prioritize the features : We prioritize each feature in each stage according to a few factors:
++ **Step 4:**  Prioritize the features : We prioritized each feature in each stage according to a few factors:
 
     - Question 1: How important is this feature for finishing the process?
     - Question 2: How often will the feature be used?
@@ -267,7 +266,7 @@ Primary Goal: Allow users to administer kudos, and give kudos to other user
 | Feedback 1| 
 | Feedback 2  | 
 
-** Retrospectives
+**Retrospectives
 <table>
 <tr><th>Positives</th><th>Delta</th></tr>
 <tr><td>Positive1</td><td>Delta1</td></tr>
