@@ -82,11 +82,7 @@ Here is a snapshot of our code review stats:
 
  3.**Static Code Analysis**
 
-Our goal was to allow developers to push their code in quickly and safely. 
-One way to achieve this is to provide early feedback to developers during the development process. This will give confidence that their code will not cause any issues in the future. 
-
-As adventurous as we are, we don’t feel production is an appropriate environment to find out about issues that should have been detected. We want to give feedback on code commits before they go through the integration pipeline. 
-We wanted to give a richer feedback to developers using static code analysis tools. 
+Our goal was to allow developers to push their code in quickly and safely. We want to give feedback on code commits before they go through the integration pipeline. We wanted to give a richer feedback to developers using static code analysis tools. 
 
 The *Static Code Analysis feature of Visual Studio* was used to help developers identify potential design, 
 globalization, interoperability, performance, security, and a lot of other categories of 
@@ -94,20 +90,13 @@ potential problems. This is based on Microsoft’s rules of coding that mainly t
 code writing. A large set of those rules are included in Visual Studio, grouped into different 
 categories targeting specific coding issues such as security, design, Interoperability, globalizations and others.
 
-Idealy the best way to achieve this is to periodically run a tool on the codebase and publish the results on a dashboard in which we can track our project(s) quality. However, the feedback provided on the code that has possibly been merged hours ago. A decission was made to run the static code analysis on the local build process, so that any violations will be treated as errors. This way, the static analysis report is displayed at the local developer box and developers can fix the code before it is committed.
-
-Static analyzers look at code and find problems before the code is ran. They do high level checks such as enforcing syntax (for example, tabs instead of spaces). It also runs more holistic checks such as making sure your functions aren’t too complex. *JSHint* was used as the static code analyzer to analyze the front end code.
-
-
-*JSHint* is a program that flags suspicious usage in programs written in JavaScript. 
-
-karma- javascript functional tests, checkout out our front end tests
+We used *JSHint* , a program that flags suspicious usage in programs to validate the frontend code. We wrote Karma- javascript functional tests for our frontend layer.
 
 These tests validate the user facing functionality of the site.
 _PhantomJS_ is used to execute the tests in a headless browser environment to increase speed. 
 _Jasmine_ is also used to provide a full featured testing harness and clean readability. 
 
-Execution is orchestrated through a Grunt task.
+Execution was orchestrated through a Grunt task.
 
 #7.Section 508 Testing
   
