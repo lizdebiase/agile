@@ -214,19 +214,16 @@ Primary Goal: Allow users to administer kudos, and give kudos to other user
  
  **Sprint 1**
 
-(https://github.com/spinsys/agile/blob/master/images/Sprint1.png)
-
+<img src="https://github.com/spinsys/agile/blob/master/images/Sprint1.png)" alt="Sprint1" >
 
   
 
 **Sprint 2**
 
-(https://github.com/spinsys/agile/blob/master/images/Sprint2.png)
+<img src="https://github.com/spinsys/agile/blob/master/images/Sprint2.png)" alt="Sprint1" >
 
 
 
-</table>
- 
 
 
 
